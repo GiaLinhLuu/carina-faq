@@ -1,8 +1,18 @@
+import { FAQTopic } from "./sections/FAQTopic";
+import { Hero } from "./sections/Hero";
+
 function App() {
     return (
-        <div className="bg-blue-800 text-white h-full w-full flex items-center justify-center">
-            Hello it's Carina
-            <button className="btn btn-warning">Warning</button>
+        <div className="min-h-screen w-full flex flex-col items-center gap-4 overflow-y-auto p-4">
+            {/* Header section */}
+            <Hero />
+
+            {/* FAQ section */}
+            <FAQTopic />
+            <FAQTopic />
+            <FAQTopic />
+            <FAQTopic />
+            <FAQTopic />
         </div>
     );
 }
