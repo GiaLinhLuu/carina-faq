@@ -1,8 +1,9 @@
 import { ContentDisplayer } from "../components/ContentDisplayer/ContentDisplayer";
+import type { ContentItem } from "../types/types";
 
 interface FAQTopicProps {
     topicTitle: string;
-    questions: { id: string; question: string; content: any[] }[];
+    questions: { id: string; question: string; content: ContentItem[] }[];
 }
 
 export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {

@@ -1,5 +1,6 @@
 import ReactMarkdown from "react-markdown";
 import type { ContentItem } from "../../types/types";
+import { TableRenderer } from "../TableRenderer/TableRenderer";
 
 export const ContentDisplayer = ({ content }: { content: ContentItem }) => {
     switch (content.tagType) {
@@ -20,6 +21,8 @@ export const ContentDisplayer = ({ content }: { content: ContentItem }) => {
                     <ReactMarkdown>{content.markdown}</ReactMarkdown>
                 </a>
             );
+        case "table":
+            return <TableRenderer table={content} />;
         default:
             return null;
     }
