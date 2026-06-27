@@ -1,6 +1,14 @@
 import ReactMarkdown from "react-markdown";
 
-export const ContentDisplayer = ({ content }) => {
+interface ContentDisplayerProps {
+    content: {
+        tagType: string;
+        styles: string[];
+        markdown: string;
+    };
+}
+
+export const ContentDisplayer = ({ content }: ContentDisplayerProps) => {
     switch (content.tagType) {
         case "p":
             return (
