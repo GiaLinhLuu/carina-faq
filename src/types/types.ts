@@ -40,3 +40,13 @@ export interface TableCell {
 }
 
 export type ContentItem = ParagraphItem | AnchorItem | TableItem;
+
+export interface IFAQTopic {
+    id: string;
+    topicTitle: string;
+    questions: {
+        id: string;
+        question: string;
+        content: ContentItem[];
+    }[];
+}
