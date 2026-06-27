@@ -1,11 +1,5 @@
 @import "tailwindcss";
-
-/* Default */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+@plugin "daisyui";
 
 /* Default layout size */
 html,
