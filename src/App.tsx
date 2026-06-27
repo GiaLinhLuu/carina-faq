@@ -26,17 +26,26 @@ function App() {
                 <Navbar onSearch={setKeyword} />
                 <Hero />
 
-                <div className="mt-2 flex-1 overflow-y-auto pr-1">
-                    <div className="flex flex-col gap-4 pb-4">
-                        {filteredData.map((item) => (
-                            <FAQTopic
-                                key={item.id}
-                                topicTitle={item.topicTitle}
-                                questions={item.questions}
-                            />
-                        ))}
+                {filteredData.length > 0 && (
+                    <div className="mt-2 flex-1 overflow-y-auto pr-1">
+                        <div className="flex flex-col gap-4 pb-4">
+                            {filteredData.map((item) => (
+                                <FAQTopic
+                                    key={item.id}
+                                    topicTitle={item.topicTitle}
+                                    questions={item.questions}
+                                />
+                            ))}
+                        </div>
                     </div>
-                </div>
+                )}
+
+                {filteredData.length === 0 && (
+                    <div className="flex flex-1 gap-2 flex-col items-center justify-center">
+                        <p className="text-6xl">🥲</p>
+                        <p className="font-bold">No results</p>
+                    </div>
+                )}
             </div>
         </div>
     );
