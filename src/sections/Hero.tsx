@@ -2,7 +2,7 @@ import { TypeAnimation } from "react-type-animation";
 
 export const Hero = () => {
     return (
-        <section className="w-full h-1/5 flex flex-col items-center justify-center max-w-4xl sticky top-0 z-10 bg-base-100 pb-4">
+        <section className="w-full h-1/5 flex flex-col items-center justify-center max-w-4xl sticky top-0 z-10 pb-4">
             <div className="flex items-center mb-1md:mb-2 lg:mb-3 p-4 font-bold text-4xl md:text-5xl lg:text-6xl">
                 <p>
                     Hello it's{" "}

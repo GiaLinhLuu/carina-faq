@@ -24,3 +24,80 @@ section ul {
     list-style-type: circle;
     padding-left: 1.5rem;
 }
+
+@keyframes gradientMove {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.bg-gradient-anim {
+    background: linear-gradient(-45deg,
+            hsl(var(--b1)),
+            hsl(var(--b2)),
+            hsl(var(--b3)));
+    background-size: 400% 400%;
+    animation: gradientMove 20s ease infinite;
+}
+
+@keyframes blobPulse {
+    0% {
+        transform: translate(0px, 0px) scale(1);
+    }
+
+    33% {
+        transform: translate(30px, -40px) scale(1.2);
+    }
+
+    66% {
+        transform: translate(-20px, 20px) scale(0.9);
+    }
+
+    100% {
+        transform: translate(0px, 0px) scale(1);
+    }
+}
+
+@keyframes blobMove {
+    0% {
+        transform: translate(0px, 0px);
+    }
+
+    33% {
+        transform: translate(40px, -50px);
+    }
+
+    66% {
+        transform: translate(-30px, 30px);
+    }
+
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+.animate-blob {
+    animation:
+        blobMove 11s ease-in-out infinite,
+        blobPulse 5s ease-in-out infinite;
+}
+
+.animation-delay-2000 {
+    animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+    animation-delay: 4s;
+}
+
+.bg-noise {
+    background-image: url("https://www.transparenttextures.com/patterns/noise.png");
+}

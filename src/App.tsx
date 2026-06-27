@@ -5,6 +5,7 @@ import { Hero } from "./sections/Hero";
 import { Navbar } from "./sections/Navbar";
 import type { IFAQTopic } from "./types/types";
 import { filterFAQ } from "./utils/utils";
+import { AnimatedBackground } from "./components/AnimatedBackground/AnimatedBackground";
 
 function App() {
     const faqData = data as IFAQTopic[];
@@ -14,8 +15,14 @@ function App() {
     }, [faqData, keyword]);
 
     return (
-        <div className="h-screen w-full overflow-hidden p-4">
-            <div className="mx-auto flex h-full max-w-4xl min-h-0 flex-col">
+        <div className="relative h-screen w-full overflow-hidden p-4">
+            {/* 🌈 BACKGROUND LAYER */}
+            <div className="absolute inset-0 -z-10">
+                <AnimatedBackground />
+            </div>
+
+            {/* 📦 MAIN UI */}
+            <div className="relative mx-auto flex h-full max-w-4xl min-h-0 flex-col">
                 <Navbar onSearch={setKeyword} />
                 <Hero />
 

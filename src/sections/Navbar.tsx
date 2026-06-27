@@ -6,7 +6,7 @@ type NavbarProps = {
 
 export const Navbar = ({ onSearch }: NavbarProps) => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 shadow rounded-lg mb-4">
             <div className="flex-1">
                 <input
                     type="text"
