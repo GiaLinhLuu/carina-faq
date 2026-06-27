@@ -68,16 +68,18 @@
                         "tagType": "p",
                         "styles": [
                             "text-center",
-                            "font-bold"
+                            "font-bold",
+                            "italic"
                         ],
-                        "markdown": "______ Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6 ______"
+                        "markdown": "Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6"
                     },
                     {
                         "id": "1.1.9",
                         "tagType": "p",
                         "styles": [
                             "text-center",
-                            "font-bold"
+                            "font-bold",
+                            "italic"
                         ],
                         "markdown": "👉 Bạn hãy sắp xếp để được thanh toán đúng hạn nhé."
                     }
