@@ -3,16 +3,20 @@ import { Hero } from "./sections/Hero";
 
 function App() {
     return (
-        <div className="min-h-screen w-full flex flex-col items-center gap-4 overflow-y-auto p-4">
-            {/* Header section */}
-            <Hero />
+        <div className="h-screen w-full overflow-hidden p-4">
+            <div className="mx-auto flex h-full max-w-4xl min-h-0 flex-col">
+                <Hero />
 
-            {/* FAQ section */}
-            <FAQTopic />
-            <FAQTopic />
-            <FAQTopic />
-            <FAQTopic />
-            <FAQTopic />
+                <div className="mt-2 flex-1 overflow-y-auto pr-1">
+                    <div className="flex flex-col gap-4 pb-4">
+                        <FAQTopic />
+                        <FAQTopic />
+                        <FAQTopic />
+                        <FAQTopic />
+                        <FAQTopic />
+                    </div>
+                </div>
+            </div>
         </div>
     );
 }
