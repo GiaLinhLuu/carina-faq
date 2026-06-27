@@ -20,7 +20,7 @@ body {
 }
 
 /* Markdown list style type */
-ul {
+section ul {
     list-style-type: circle;
     padding-left: 1.5rem;
 }
