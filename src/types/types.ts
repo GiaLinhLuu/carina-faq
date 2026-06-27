@@ -36,6 +36,7 @@ export interface TableCell {
     id: string;
     tagType: "td";
     markdown: string;
+    children: ContentItem[];
 }
 
 export type ContentItem = ParagraphItem | AnchorItem | TableItem;

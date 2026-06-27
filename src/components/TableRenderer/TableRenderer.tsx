@@ -1,5 +1,6 @@
 import ReactMarkdown from "react-markdown";
 import type { TableItem } from "../../types/types";
+import { ContentDisplayer } from "../ContentDisplayer/ContentDisplayer";
 
 export const TableRenderer = ({ table }: { table: TableItem }) => {
     return (
@@ -33,17 +34,26 @@ export const TableRenderer = ({ table }: { table: TableItem }) => {
                         <tr key={row.id}>
                             {row.cells.map((cell) => (
                                 <td key={cell.id}>
-                                    <ReactMarkdown
-                                        components={{
-                                            p: ({ children }) => (
-                                                <p className="pre-line">
-                                                    {children}
-                                                </p>
-                                            ),
-                                        }}
-                                    >
-                                        {cell.markdown}
-                                    </ReactMarkdown>
+                                    {cell.children?.length > 0 ? (
+                                        cell.children.map((child) => (
+                                            <ContentDisplayer
+                                                key={child.id}
+                                                content={child}
+                                            />
+                                        ))
+                                    ) : (
+                                        <ReactMarkdown
+                                            components={{
+                                                p: ({ children }) => (
+                                                    <p className="pre-line">
+                                                        {children}
+                                                    </p>
+                                                ),
+                                            }}
+                                        >
+                                            {cell.markdown}
+                                        </ReactMarkdown>
+                                    )}
                                 </td>
                             ))}
                         </tr>
