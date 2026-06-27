@@ -6,10 +6,11 @@ const themes = [
     { value: "cupcake", label: "Cupcake" },
     { value: "bumblebee", label: "Bumblebee" },
     { value: "retro", label: "Retro" },
+    { value: "pastel", label: "Pastel" },
 ] as const;
 
 export const ThemeController = () => {
-    const [theme, setTheme] = useState("cupcake");
+    const [theme, setTheme] = useState("bumblebee");
 
     useEffect(() => {
         // Always default to cupcake on load; allow in-memory changes only

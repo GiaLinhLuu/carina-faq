@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @plugin "daisyui" {
-    themes: light, dark, cupcake, bumblebee, retro;
+    themes: light, dark, cupcake, bumblebee, retro, pastel;
 }
 
 /* Default layout size */
