@@ -1,9 +1,8 @@
-import ReactMarkdown from "react-markdown";
-import rehypeRaw from "rehype-raw";
+import { ContentDisplayer } from "../components/ContentDisplayer/ContentDisplayer";
 
 interface FAQTopicProps {
     topicTitle: string;
-    questions: { id: string; question: string; markdown: string }[];
+    questions: { id: string; question: string; content: any[] }[];
 }
 
 export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
@@ -17,10 +16,13 @@ export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
                     className="collapse collapse-arrow bg-base-100 border-base-300 border"
                 >
                     <div className="collapse-title font-bold">{q.question}</div>
-                    <div className="collapse-content pre-wrap">
-                        <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-                            {q.markdown}
-                        </ReactMarkdown>
+                    <div className="collapse-content">
+                        {q.content?.map((contentItem) => (
+                            <ContentDisplayer
+                                key={contentItem.id}
+                                content={contentItem}
+                            />
+                        ))}
                     </div>
                 </div>
             ))}
