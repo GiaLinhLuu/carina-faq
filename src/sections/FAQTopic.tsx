@@ -1,7 +1,7 @@
 export const FAQTopic = () => {
     return (
-        <section className="bg-base-200 rounded-lg w-full max-w-4xl flex flex-col gap-2 p-4">
-            <p className="font-semibold">Topic 1</p>
+        <section className="bg-base-200 shadow rounded-lg w-full max-w-4xl flex flex-col gap-2 p-4">
+            <p className="font-semibold mb-2">Topic 1</p>
             {/* Question 1 */}
             <div
                 tabIndex={0}
