@@ -16,6 +16,7 @@ function App() {
                             <FAQTopic
                                 key={item.id}
                                 topicTitle={item.topicTitle}
+                                questions={item.questions}
                             />
                         ))}
                     </div>

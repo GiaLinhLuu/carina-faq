@@ -1,33 +1,29 @@
-export const FAQTopic = ({ topicTitle }: { topicTitle: string }) => {
+import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
+
+interface FAQTopicProps {
+    topicTitle: string;
+    questions: { id: string; question: string; markdown: string }[];
+}
+
+export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
     return (
         <section className="bg-base-200 shadow rounded-lg w-full max-w-4xl flex flex-col gap-2 p-4">
-            <p className="font-semibold mb-2">{topicTitle}</p>
-            {/* Question 1 */}
-            <div
-                tabIndex={0}
-                className="collapse collapse-arrow bg-base-100 border-base-300 border"
-            >
-                <div className="collapse-title font-semibold">
-                    How do I create an account?
+            <p className="font-bold mb-2">{topicTitle}</p>
+
+            {questions.map((q) => (
+                <div
+                    tabIndex={0}
+                    className="collapse collapse-arrow bg-base-100 border-base-300 border"
+                >
+                    <div className="collapse-title font-bold">{q.question}</div>
+                    <div className="collapse-content pre-wrap">
+                        <ReactMarkdown rehypePlugins={[rehypeRaw]}>
+                            {q.markdown}
+                        </ReactMarkdown>
+                    </div>
                 </div>
-                <div className="collapse-content text-sm">
-                    Click the "Sign Up" button in the top right corner and
-                    follow the registration process.
-                </div>
-            </div>
-            {/* Question 2 */}
-            <div
-                tabIndex={0}
-                className="collapse collapse-arrow bg-base-100 border-base-300 border"
-            >
-                <div className="collapse-title font-semibold">
-                    How do I create an account?
-                </div>
-                <div className="collapse-content text-sm">
-                    Click the "Sign Up" button in the top right corner and
-                    follow the registration process.
-                </div>
-            </div>
+            ))}
         </section>
     );
 };
