@@ -206,7 +206,101 @@
     {
         "id": "3.0",
         "topicTitle": "3. For Business Development Team",
-        "questions": []
+        "questions": [
+            {
+                "id": "3.1",
+                "question": "A. BD có khách hàng mới cần thu tiền?",
+                "content": [
+                    {
+                        "id": "3.1.1",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- Hãy ping Kế toán trên channel và báo mình gửi invoice cho khách ASAP nhé"
+                    },
+                    {
+                        "id": "3.1.2",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- Dự án có biến động về resource 👉 Vui lòng tag để Kế toán nhận thông tin"
+                    }
+                ]
+            },
+            {
+                "id": "3.2",
+                "question": "B. BD cần biết khách hàng đã thanh toán tiền chưa?",
+                "content": [
+                    {
+                        "id": "3.2.1",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6",
+                            "inline-block"
+                        ],
+                        "markdown": "- Xem link này:"
+                    },
+                    {
+                        "id": "3.2.2",
+                        "tagType": "a",
+                        "styles": [
+                            "ml-1",
+                            "italic",
+                            "font-bold",
+                            "inline-block"
+                        ],
+                        "markdown": "Link Google Sheet - Invoice & Payment Status",
+                        "href": "https://docs.google.com/spreadsheets/d/1CI3hOQxGR-Pvp-nshYvaef2jKZmCCGkjaJuVo1f1T8A"
+                    }
+                ]
+            },
+            {
+                "id": "3.3",
+                "question": "C. BD cần biết Hợp đồng Fixed Price đã đến giai đoạn nào?",
+                "content": [
+                    {
+                        "id": "3.3.1",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- It's your task! If you really don't know, please ask me directly."
+                    }
+                ]
+            },
+            {
+                "id": "3.4",
+                "question": "D. BD cần đi tiếp khách và mua quà tặng khách?",
+                "content": [
+                    {
+                        "id": "3.4.1",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- Trước tiên hãy xin approve nhé!"
+                    },
+                    {
+                        "id": "3.4.2",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- Hãy tìm quán có xuất hóa đơn VAT mới được dẫn khách đến nha!"
+                    },
+                    {
+                        "id": "3.4.3",
+                        "tagType": "p",
+                        "styles": [
+                            "ml-6"
+                        ],
+                        "markdown": "- Prepare these:"
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": "4.0",
