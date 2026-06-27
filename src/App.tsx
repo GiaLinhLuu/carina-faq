@@ -1,6 +1,7 @@
 import { FAQTopic } from "./sections/FAQTopic";
 import { Hero } from "./sections/Hero";
 import { Navbar } from "./sections/Navbar";
+import data from "./data/data.json";
 
 function App() {
     return (
@@ -11,11 +12,12 @@ function App() {
 
                 <div className="mt-2 flex-1 overflow-y-auto pr-1">
                     <div className="flex flex-col gap-4 pb-4">
-                        <FAQTopic />
-                        <FAQTopic />
-                        <FAQTopic />
-                        <FAQTopic />
-                        <FAQTopic />
+                        {data.map((item) => (
+                            <FAQTopic
+                                key={item.id}
+                                topicTitle={item.topicTitle}
+                            />
+                        ))}
                     </div>
                 </div>
             </div>
