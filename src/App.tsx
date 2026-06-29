@@ -45,6 +45,12 @@ function App() {
                         <p className="font-bold">No results</p>
                     </div>
                 )}
+
+                {filteredData.length !== 0 && (
+                    <div className="font-bold text-center italic pt-2">
+                        ✨ Let’s keep things smooth! 😊
+                    </div>
+                )}
             </div>
         </div>
     );

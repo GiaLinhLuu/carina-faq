@@ -1,6 +1,6 @@
 export const AnimatedBackground = () => {
     return (
-        <div className="relative h-full w-full overflow-hidden bg-base-100">
+        <div className="relative h-full w-full overflow-hidden bg-base-200">
             {/* 🌈 1. Base animated gradient */}
             <div className="absolute inset-0 bg-gradient-anim opacity-60" />
 

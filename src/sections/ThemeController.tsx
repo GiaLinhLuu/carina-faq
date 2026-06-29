@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 
 const themes = [
-    { value: "light", label: "Light" },
     { value: "dark", label: "Dark" },
     { value: "cupcake", label: "Cupcake" },
     { value: "bumblebee", label: "Bumblebee" },

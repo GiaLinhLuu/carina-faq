@@ -8,8 +8,8 @@ interface FAQTopicProps {
 
 export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
     return (
-        <section className="bg-base-200 shadow rounded-lg w-full max-w-4xl flex flex-col gap-2 p-4">
-            <p className="font-bold mb-2">{topicTitle}</p>
+        <section className="bg-base-100 shadow rounded-lg w-full max-w-4xl flex flex-col gap-2 p-4">
+            <p className="font-bold mb-2 text-primary-content">{topicTitle}</p>
 
             {questions.map((q) => (
                 <div
