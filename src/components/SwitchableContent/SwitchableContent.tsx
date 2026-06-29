@@ -12,7 +12,7 @@ export const SwitchableContent = ({ data }: { data: SwitchableItem }) => {
                 onChange={(event) => {
                     setActiveItemId(event.target.value);
                 }}
-                className="select"
+                className="select w-3/4"
                 defaultValue={"Select a case"}
             >
                 <option disabled={true}>Select a case</option>
