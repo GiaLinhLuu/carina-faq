@@ -1,13 +1,13 @@
 {
-    "id": "1.0",
+    "id": "593fe2bc-531c-486f-abaf-0155090a596e",
     "topicTitle": "1. General: Purchase & Payment Guide",
     "questions": [
         {
-            "id": "1.1",
+            "id": "91311802-6f44-47a8-89c6-dbef460b238c",
             "question": "A. BẠN CẦN XÁC ĐỊNH GÌ?",
             "content": [
                 {
-                    "id": "1.1.1",
+                    "id": "bb8cb891-d0cd-4a8a-8c3b-8ebaba6b458f",
                     "tagType": "p",
                     "styles": [
                         "font-bold"
@@ -15,7 +15,7 @@
                     "markdown": "Khi nào thì \"mua cho vui\" và khi nào thì cần có \"hợp đồng\" cho chắc tay nhỉ?"
                 },
                 {
-                    "id": "1.1.2",
+                    "id": "092fcf2b-50a5-45c7-8516-7caea35eaf1e",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -23,7 +23,7 @@
                     "markdown": "- Mua từ **10.000.000 VNĐ** trở lên"
                 },
                 {
-                    "id": "1.1.3",
+                    "id": "204c4dce-449a-4776-95d0-f6fda5191d95",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -31,7 +31,7 @@
                     "markdown": "- Hoặc bất cứ khi nào nếu:"
                 },
                 {
-                    "id": "1.1.4",
+                    "id": "ae0aa95c-d06f-442e-a058-f682c8910af2",
                     "tagType": "p",
                     "styles": [
                         "ml-12"
@@ -39,7 +39,7 @@
                     "markdown": "- Giá trị cao, dùng lâu dài"
                 },
                 {
-                    "id": "1.1.5",
+                    "id": "6b6fa229-ea71-42b3-81bf-49e15e55cd3f",
                     "tagType": "p",
                     "styles": [
                         "ml-12"
@@ -47,7 +47,7 @@
                     "markdown": "- Cần bảo hành - bảo trì"
                 },
                 {
-                    "id": "1.1.6",
+                    "id": "a7f61164-323a-4e4a-85a4-ce14f31f0c05",
                     "tagType": "p",
                     "styles": [
                         "ml-12"
@@ -55,7 +55,7 @@
                     "markdown": "- Mua số lượng nhiều"
                 },
                 {
-                    "id": "1.1.7",
+                    "id": "34678cfb-80af-4c7d-9a28-d22c8da880bd",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -63,7 +63,7 @@
                     "markdown": "- Hoặc hợp đồng dịch vụ có điều khoản thanh toán trước nhằm đảm bảo quyền và nghĩa vụ giữa các bên. *(Freelance...)*"
                 },
                 {
-                    "id": "1.1.8",
+                    "id": "dd99fd74-f3bf-4e3f-901b-44ab43ab3b66",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -72,7 +72,7 @@
                     "markdown": "👉 Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6."
                 },
                 {
-                    "id": "1.1.9",
+                    "id": "840ca486-be55-47b9-affa-f26fe4a2525c",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -83,11 +83,11 @@
             ]
         },
         {
-            "id": "1.2",
+            "id": "625a8d1b-dca1-4448-84c9-2f0d1e1c0740",
             "question": "B. BẠN CẦN LÀM GÌ?",
             "content": [
                 {
-                    "id": "4.2.1",
+                    "id": "fab235cc-eb0a-45b4-b4fa-195fa46c4e76",
                     "tagType": "p",
                     "styles": [
                         "italic",
@@ -96,7 +96,7 @@
                     "markdown": "👉 **PRINT ALL** those documents! Compile all documents into one payment package."
                 },
                 {
-                    "id": "4.2.1",
+                    "id": "7ac4ce37-986a-45b5-9012-7a67b7f699dc",
                     "tagType": "p",
                     "styles": [
                         "italic",
@@ -105,7 +105,7 @@
                     "markdown": "👉 Thông tin Mã số thuế của công ty - Xem ở Topic 2"
                 },
                 {
-                    "id": "4.2.1",
+                    "id": "3e842b4c-5a2b-41ba-921f-1aa214382cd6",
                     "tagType": "p",
                     "styles": [
                         "italic",
@@ -114,16 +114,16 @@
                     "markdown": "👉 Các yêu cầu chưa đầy đủ sẽ được hoàn trả để bổ sung thông tin."
                 },
                 {
-                    "id": "1.2.1",
+                    "id": "0d61e268-d095-4055-89b0-6f89ff08adcd",
                     "tagType": "select",
                     "switchableItems": [
                         {
-                            "id": "1.2.1.1",
+                            "id": "79774b96-b596-4b40-8ca8-6956401c2ae6",
                             "tagType": "selection",
                             "title": "B.1 - Bạn mua hàng > 5 triệu đồng?",
                             "content": [
                                 {
-                                    "id": "4.2.1",
+                                    "id": "e4d8c591-ec09-4be1-8f36-d55345ee304b",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -132,22 +132,22 @@
                                     "markdown": "Step 1: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "46528510-913c-4cf5-9a6c-b6a9f19c6260",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "6465d260-535e-4400-9023-7d6a737cdbbc",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "d5387dbe-2d1d-438d-986c-c48866bfcd9c",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "728b45b2-97ab-4414-b52a-8e54b70ffea8",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -155,64 +155,64 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "1e43060f-a16c-4e4d-9794-67d70a4e394f",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "c3ff0f7f-9507-47cc-a288-e8a300c5ef40",
                                                     "tagType": "td",
                                                     "markdown": "Đề xuất mua hàng hóa/dịch vụ (đã được cấp Quản lý phê duyệt)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "96ce1b31-d86e-4c87-99bd-aaf65dd82e23",
                                                     "tagType": "td",
                                                     "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "8babf718-6f0e-4dc4-830b-844a0fd6be11",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "fd5e7b13-e30c-43cf-8828-1a989c43b50b",
                                                     "tagType": "td",
                                                     "markdown": "Hợp đồng mua bán (Tham khảo Mục A)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "6e548e7e-3342-459b-a837-0e3046701652",
                                                     "tagType": "td",
                                                     "markdown": "Liên hệ Legal Team để soạn hợp đồng"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "26278852-0f1e-49f2-b899-535bbc53480f",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "ffa7eb82-b3a6-4ef8-a40b-d7d4c2a7f591",
                                                     "tagType": "td",
                                                     "markdown": "Báo giá của nhà cung cấp (Quotation/ Purchase Order)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "47c2d4ad-337c-4aba-a4c5-5ba51168b608",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "4e324770-b9e3-49b7-bcfc-2d6e1a30f435",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "a1b13882-09f4-4270-ba80-280a1d9f50fa",
                                                     "tagType": "td",
                                                     "markdown": "Thông tin tài khoản ngân hàng của nhà cung cấp"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "b1fb58a8-1c37-4663-85e7-820ccd701195",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
@@ -221,7 +221,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.3",
+                                    "id": "ff4ae405-82d9-4c46-8092-43a9964c4647",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -230,7 +230,7 @@
                                     "markdown": "Step 2: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.4",
+                                    "id": "aa0972b8-c166-4746-a52e-21d0f52c6bf7",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -238,7 +238,7 @@
                                     "markdown": "- Viết giấy ĐỀ NGHỊ THANH TOÁN - Xem ở Topic 1C"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "ca4d9e35-860b-46f0-8fb8-0452ffb26bb2",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -247,7 +247,7 @@
                                     "markdown": "Step 3: Get Manager Approval!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "2d678c03-5f10-4441-8f89-fa93611d25dd",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -255,7 +255,7 @@
                                     "markdown": "- Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "de37bb45-3fc2-494a-8d03-ff8809d77614",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -264,7 +264,7 @@
                                     "markdown": "Step 4: Submit to Accounting!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "6368e9a4-3682-4f9c-9366-2b73addc56a3",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -272,7 +272,7 @@
                                     "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
                                 },
                                 {
-                                    "id": "4.2.1",
+                                    "id": "c48e4501-2c3b-48ab-925e-5abc4592ca2d",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -281,22 +281,22 @@
                                     "markdown": "Step 5: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "49d11fa7-7f95-4391-aa91-10853d04a8d1",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "8b475b18-117f-46c2-820a-c4fee406843f",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "f5b15dac-7a7b-41c2-a500-0bf659c21bc1",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "0c266f69-f43a-4af0-a3d2-1d378600adb0",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -304,48 +304,48 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "a8267f0c-7df0-4260-8df5-e5d718498cf4",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "d337aba6-cb88-4ab6-8e06-2024f2118aa0",
                                                     "tagType": "td",
                                                     "markdown": "Hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "6e350b11-a488-4e64-a2f6-25eab0dadb92",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp (Thông báo nhà cung cấp: Đã thanh toán 50%, vui lòng xuất hóa đơn để công ty thanh toán phần còn lại)"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "8ebefd42-13d8-4eab-a142-9bc8b076cd4a",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "fbafa63b-aa71-4f46-a724-4c151a0d3b42",
                                                     "tagType": "td",
                                                     "markdown": "Phiếu bán hàng / Phiếu xuất kho / Biên bản giao nhận / Biên bản nghiệm thu"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "0901e1db-2e93-4f17-958c-3840a603aa8a",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "e9ff3cf1-a640-4208-a1f5-f93a360e3330",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "f4f4bef0-e706-447d-9839-03941c29cc7f",
                                                     "tagType": "td",
                                                     "markdown": "Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "d273146a-b4aa-4e06-9186-0f550fe5f16d",
                                                     "tagType": "td",
                                                     "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                                 }
@@ -354,7 +354,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "4951eb8c-e7fa-4f3d-b6c8-4a4ad0891c96",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -363,7 +363,7 @@
                                     "markdown": "Step 6: Second payment to vendor (if applicable)"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "c8fb6f0c-db06-43d8-82ca-2dcb2a0568f7",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -373,12 +373,12 @@
                             ]
                         },
                         {
-                            "id": "1.2.1.2",
+                            "id": "11402953-4319-4cc3-b44a-6ba6b6a71715",
                             "tagType": "selection",
                             "title": "B.2 - Mua hàng < 5 triệu đồng - Bạn đã thanh toán rồi & có Hóa đơn VAT?",
                             "content": [
                                 {
-                                    "id": "4.2.1",
+                                    "id": "dc227eb2-098e-4e2a-b05b-48be497a2ff7",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -387,22 +387,22 @@
                                     "markdown": "Step 1: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "4a96b5a2-1776-4f13-9943-68b0d2998c6b",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "35983d0c-ac3f-40fc-8142-7e9d101b43b8",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "ac41f79a-3c74-421e-baef-c57168e24cda",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "bc821460-3511-4304-ae97-24dd695452f7",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -410,128 +410,128 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "f3eb58b2-ee8a-4e8d-92e7-1219f40ffb35",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "fd5e552e-2803-40e4-9c3a-fe91dc5d0354",
                                                     "tagType": "td",
                                                     "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "dc477370-fb4a-4539-8c9b-f377cf222a87",
                                                     "tagType": "td",
                                                     "markdown": "Xem ở Topic 1C"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "df5f0108-3c81-4ccc-b357-f7f65c015d67",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "de8fe57f-ec86-4513-a945-20ff757dae21",
                                                     "tagType": "td",
                                                     "markdown": "Đề xuất mua hàng hóa/dịch vụ (đã được cấp Quản lý phê duyệt)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "73e733e9-81a5-4976-9ba1-3a529d87fd08",
                                                     "tagType": "td",
                                                     "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "dde9d500-a45d-4d6e-ba1d-81b19d898227",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "fa3256da-91cc-4d49-a606-0b492aa7efb4",
                                                     "tagType": "td",
                                                     "markdown": "Hợp đồng mua bán (Tham khảo Mục A)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "5cf3efce-c48d-4855-8827-bf78f67c65db",
                                                     "tagType": "td",
                                                     "markdown": "Liên hệ Legal Team để soạn hợp đồng"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "0f65523c-c18b-4d44-b596-611475c8ec2a",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "b0db4661-6d64-433f-815a-7c6b99b46d21",
                                                     "tagType": "td",
                                                     "markdown": "Báo giá của nhà cung cấp (Quotation/ Purchase Order)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "6966a1ff-8057-453d-be91-ea8bf19d0e2c",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "4522becd-bb1f-43d9-8b1c-520ed1245986",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "faddba00-d712-42a1-8d19-8e9f9368681e",
                                                     "tagType": "td",
                                                     "markdown": "Thông tin tài khoản ngân hàng của nhà cung cấp"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "0c6ca23b-8923-40fd-b671-c093598e5646",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "93b3049b-1638-43f3-8b03-982b8921a31e",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "21b37353-cece-4a21-8b9b-d57b089a9bb2",
                                                     "tagType": "td",
                                                     "markdown": "Phiếu bán hàng / Phiếu xuất kho / Biên bản giao nhận / Biên bản nghiệm thu"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "be623acc-ffb9-4555-acc1-2fee16330252",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "54fc2a8c-6a92-4f1a-ab89-f4c1d57d7386",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "2ba7aba3-390e-415f-81c7-a0a4a894f767",
                                                     "tagType": "td",
                                                     "markdown": "Hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "4ed99d5b-18d4-47da-9f7f-787c77823a1a",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "34a30eb8-cf71-4385-96c8-5464e5156c22",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "1fd831d0-6f6c-470d-9991-16ee137c85da",
                                                     "tagType": "td",
                                                     "markdown": "Ủy nhiệm chi bạn đã thanh toán tiền cho nhà cung cấp"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "9e568824-a5a8-4d65-b702-5b314ed6f105",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
@@ -540,7 +540,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.3",
+                                    "id": "042d01f0-4dff-4dad-852f-c7719f7865ae",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -549,7 +549,7 @@
                                     "markdown": "Step 2: Get Manager Approval!"
                                 },
                                 {
-                                    "id": "4.2.4",
+                                    "id": "d4596c21-53f2-449b-9b56-b9e382052b24",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -557,7 +557,7 @@
                                     "markdown": "- Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "f4d96b7c-5272-4347-8bde-af4575d9dcb7",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -566,7 +566,7 @@
                                     "markdown": "Step 3: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "5d182eec-cabb-4c6d-85a3-2c3e2fa76211",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -574,7 +574,7 @@
                                     "markdown": "- Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "ebeb0cd7-fdb1-47ef-a7b8-77877a648dd6",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -583,7 +583,7 @@
                                     "markdown": "Step 4: Submit to Accounting!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "d9d12f6e-fbb1-4978-bfdd-2d3656cb4bae",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -593,12 +593,12 @@
                             ]
                         },
                         {
-                            "id": "1.2.1.3",
+                            "id": "aed9f65b-5f2f-4b41-96e2-df61425444f6",
                             "tagType": "selection",
                             "title": "B.3 - Mua hàng < 5 triệu đồng - Bạn chưa thanh toán cho nhà cung cấp?",
                             "content": [
                                 {
-                                    "id": "4.2.1",
+                                    "id": "af1214a4-818c-4639-a6ee-d5cc02da4fee",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -607,22 +607,22 @@
                                     "markdown": "Step 1: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "ea93bf97-126d-477a-9b86-ec95bbc44af7",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "97796a5b-93fd-49b0-80db-3ef558d1c0ba",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "949ecde5-5605-4697-ab05-34d223e5ff05",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "1d695315-8e12-4c8a-9282-a698b3ebfbc9",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -630,128 +630,128 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "6f414193-dd05-419b-ba6c-da21819a7eb7",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "af94778c-7c54-41d1-a89b-5260dc64da3d",
                                                     "tagType": "td",
                                                     "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "607163ab-b1a6-4c09-9fc8-74d4ce85d03f",
                                                     "tagType": "td",
                                                     "markdown": "Xem ở Topic 1C"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "ec2a0e3a-3781-49ce-af4f-3a2e82df6558",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "d176820f-a003-46c5-89af-ae0cb650f3d7",
                                                     "tagType": "td",
                                                     "markdown": "Đề xuất mua hàng hóa/dịch vụ (đã được cấp Quản lý phê duyệt)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "658b527a-9f6f-4992-aefd-62d5819057b1",
                                                     "tagType": "td",
                                                     "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "65b230d8-2af6-4e48-a08b-9b62e8a88936",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "57547a3d-636b-4326-811e-4ca843b844d7",
                                                     "tagType": "td",
                                                     "markdown": "Hợp đồng mua bán (Tham khảo Mục A)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "66b2b60e-0319-45f9-8e14-68b011121866",
                                                     "tagType": "td",
                                                     "markdown": "Liên hệ Legal Team để soạn hợp đồng"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "ba8b164b-2222-4cdb-9953-7c107d4f33e0",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "bb009585-348b-46e9-9dbc-a86f3cd33386",
                                                     "tagType": "td",
                                                     "markdown": "Báo giá của nhà cung cấp (Quotation/ Purchase Order)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "4e25c987-5c6a-48f3-b664-5b2642664886",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "cd8ff00f-0963-4a2e-8eba-97b8dddab8cc",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "4d59445c-6e8c-4c2c-a1d5-4542e7b12782",
                                                     "tagType": "td",
                                                     "markdown": "Thông tin tài khoản ngân hàng của nhà cung cấp"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "4194b06c-c89e-4237-aa3a-beaaf051a5f8",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "2bc4bcba-4207-4c80-93e3-f88976711329",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "239fd1ed-ae6a-4ba6-9801-398c5afefb02",
                                                     "tagType": "td",
                                                     "markdown": "Phiếu bán hàng / Phiếu xuất kho / Biên bản giao nhận / Biên bản nghiệm thu"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "b57e4114-1b9d-45d2-b33f-1f3baa8a4802",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4.)"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "dd3362e3-2207-47fc-a252-6c2b808673b9",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "de239b32-6be9-4a55-b31f-fed1f88e3a44",
                                                     "tagType": "td",
                                                     "markdown": "Hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "5b8d2a7a-fe38-4a73-86ee-7c42ee3abe21",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4.). Ưu tiên trao đổi với nhà cung cấp để xuất hóa đơn sớm nhất cho công ty"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.5",
+                                            "id": "ce9260b8-f2f4-4c1a-9e81-aa965f27c9d7",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.5.1",
+                                                    "id": "8447c249-4c60-4dc4-ba9b-014f219c126f",
                                                     "tagType": "td",
                                                     "markdown": "Nếu mua hàng KHÔNG CÓ hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.5.2",
+                                                    "id": "9f5e3fce-fad3-412d-989d-4c6edc632bcc",
                                                     "tagType": "td",
                                                     "markdown": "Gửi tin nhắn/email kèm phê duyệt"
                                                 }
@@ -760,7 +760,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.3",
+                                    "id": "4976aace-6017-41a1-8581-31c48f9dd795",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -769,7 +769,7 @@
                                     "markdown": "Step 2: Get Manager Approval!"
                                 },
                                 {
-                                    "id": "4.2.4",
+                                    "id": "da6a5d6f-a94b-4e47-a663-853e07445974",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -777,7 +777,7 @@
                                     "markdown": "- Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "7da76273-e9c5-451b-b934-98db62d364e4",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -786,7 +786,7 @@
                                     "markdown": "Step 3: Submit to Accounting!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "eb7176bb-2651-4a5f-beeb-4ff743655d5f",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -794,7 +794,7 @@
                                     "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "41e71b18-77af-406d-bf50-8b0d60dae3e7",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -803,7 +803,7 @@
                                     "markdown": "Step 4: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "78da292b-3331-4561-9715-c09e45824012",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -813,12 +813,12 @@
                             ]
                         },
                         {
-                            "id": "1.2.1.4",
+                            "id": "e49bd64b-2e4c-4e19-b938-f89b640e3224",
                             "tagType": "selection",
                             "title": "B.4 - Mua hàng nhiều - Bạn cần tạm ứng theo budget?",
                             "content": [
                                 {
-                                    "id": "4.2.1",
+                                    "id": "3d115796-2127-488a-9d7c-e05a3fc0cb78",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -827,22 +827,22 @@
                                     "markdown": "Step 1: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "bd8faa78-1b65-44ed-9715-927431c5030b",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "3ac95744-8702-4eff-a369-01052026ccb9",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "b9522697-cddd-4a59-88ff-ce4a6631898e",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "6940850b-7be6-449e-bdcb-60ae07fb88c8",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -850,48 +850,48 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "d8bd2692-4083-45fe-8fbe-5106cddcf6cf",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "e3535223-ca06-43a5-aa1b-68c12d47c8e9",
                                                     "tagType": "td",
                                                     "markdown": "Viết giấy ĐỀ NGHỊ TẠM ỨNG"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "fb6f2746-204b-49fe-a78b-9c7d4400ac89",
                                                     "tagType": "td",
                                                     "markdown": "Xem ở Topic 1C"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "637f7186-c7fd-4277-bdfc-2239cdeff559",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "63e5d43c-2590-4450-9d79-0d034e01e9b4",
                                                     "tagType": "td",
                                                     "markdown": "Đề xuất mua hàng hóa/dịch vụ (đã được cấp Quản lý phê duyệt)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "27d54558-35f5-4c8d-a2bb-831ac6e85140",
                                                     "tagType": "td",
                                                     "markdown": "Không cần form cố định - có thể tự soạn kèm chữ ký phê duyệt"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "5d979004-2199-41dc-ae5f-5b7241f4f226",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "64751a1e-93db-46dc-9cf7-69e33ff1ac03",
                                                     "tagType": "td",
                                                     "markdown": "Báo giá của nhà cung cấp (Quotation/ Purchase Order)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "d112e8ec-8606-4f86-a8b8-1d88b1d01938",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
@@ -900,7 +900,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.3",
+                                    "id": "3306fbde-d21a-4df2-8a6d-762b4c7a69f0",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -909,7 +909,7 @@
                                     "markdown": "Step 2: Get Manager Approval!"
                                 },
                                 {
-                                    "id": "4.2.4",
+                                    "id": "d4976fa2-a3b4-469e-80aa-797003fd5bd9",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -917,7 +917,7 @@
                                     "markdown": "- Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "33522df8-5d91-45fb-a803-eb67fb42a843",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -926,7 +926,7 @@
                                     "markdown": "Step 3: Submit to Accounting!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "51cd500e-499b-4913-998e-345b22b70cec",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -934,7 +934,7 @@
                                     "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
                                 },
                                 {
-                                    "id": "4.2.1",
+                                    "id": "588690c9-c004-4f79-a0d7-6c33a74ca2c4",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -943,22 +943,22 @@
                                     "markdown": "Step 4: After purchase"
                                 },
                                 {
-                                    "id": "4.2.2",
+                                    "id": "4edc343d-b242-4acf-a27f-921f20a39e4f",
                                     "tagType": "table",
                                     "styles": [
                                         "mb-2"
                                     ],
                                     "header": {
-                                        "id": "4.2.2.1",
+                                        "id": "b5d24b7e-c1b1-463d-98b9-9b67af2343dd",
                                         "tagType": "th",
                                         "cells": [
                                             {
-                                                "id": "4.2.2.1.1",
+                                                "id": "03e552b6-7e82-440f-8413-795338873b0b",
                                                 "tagType": "td",
                                                 "markdown": "Description"
                                             },
                                             {
-                                                "id": "4.2.2.1.2",
+                                                "id": "e90b0efa-d1a9-4c88-ab17-f2ff77316bad",
                                                 "tagType": "td",
                                                 "markdown": "Note"
                                             }
@@ -966,112 +966,112 @@
                                     },
                                     "rows": [
                                         {
-                                            "id": "4.2.2.2",
+                                            "id": "45081d51-9ee5-4fc4-8945-b5481fbdec34",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.2.1",
+                                                    "id": "6df2b791-9c6e-433a-9dfb-f450c6be57b6",
                                                     "tagType": "td",
                                                     "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN"
                                                 },
                                                 {
-                                                    "id": "4.2.2.2.2",
+                                                    "id": "66fccbd7-6b5a-4c68-b0fb-c36a30df2a14",
                                                     "tagType": "td",
                                                     "markdown": "Xem ở Topic 1C"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.3",
+                                            "id": "bfa2a054-6e8e-4265-9c85-325849f69570",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.3.1",
+                                                    "id": "48a69f47-76d4-47af-99b3-b79b5e54f10c",
                                                     "tagType": "td",
                                                     "markdown": "Lập bảng tổng hợp: Tên chi phí - Giá tiền - Nhà cung cấp - Số hóa đơn tương ứng"
                                                 },
                                                 {
-                                                    "id": "4.2.2.3.2",
+                                                    "id": "bf126f4f-92d5-404b-abbd-22034a68b10c",
                                                     "tagType": "td",
                                                     "markdown": ""
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "0ea5144c-c604-4de5-89c7-4e5f82f90a52",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "67d0f566-0614-434e-82a1-9540a79cd1af",
                                                     "tagType": "td",
                                                     "markdown": "In và sắp xếp toàn bộ chứng từ đã mua theo từng nhóm"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "777019e0-f41f-438f-831d-938b7c17821a",
                                                     "tagType": "td",
                                                     "markdown": ""
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "e4ae5e10-f80d-477d-a7af-412ea0f80821",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "6891e1ec-b2ad-446d-8848-ea62ae6af27e",
                                                     "tagType": "td",
                                                     "markdown": "Hợp đồng mua bán (Tham khảo Mục A)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "5c4fd049-c41b-4095-a2c7-b8214512edd8",
                                                     "tagType": "td",
                                                     "markdown": "Liên hệ Legal Team để soạn hợp đồng"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "ae27e787-35d8-43bd-974e-31ba0248018d",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "a6cc8130-2625-476b-9e13-092d5a3aecf4",
                                                     "tagType": "td",
                                                     "markdown": "Phiếu bán hàng / Phiếu xuất kho / Biên bản giao nhận / Biên bản nghiệm thu"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "ae719054-c4eb-4b2f-be19-78074792486b",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "310ebc7a-b582-49f6-8ae4-cf30ca6c0293",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "4ee2397e-956e-4a58-aa36-560a4cc76407",
                                                     "tagType": "td",
                                                     "markdown": "Hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "ceaa682f-cc6d-43c5-b4b0-c372602eb6e9",
                                                     "tagType": "td",
                                                     "markdown": "Yêu cầu từ nhà cung cấp"
                                                 }
                                             ]
                                         },
                                         {
-                                            "id": "4.2.2.4",
+                                            "id": "657874d6-8c49-44cc-acd6-11ee72dd814b",
                                             "tagType": "tr",
                                             "cells": [
                                                 {
-                                                    "id": "4.2.2.4.1",
+                                                    "id": "aa3671e4-fed8-4fee-9c8e-9fd3873d6bf8",
                                                     "tagType": "td",
                                                     "markdown": "Ủy nhiệm chi bạn đã thanh toán tiền cho nhà cung cấp"
                                                 },
                                                 {
-                                                    "id": "4.2.2.4.2",
+                                                    "id": "e8d89ec5-e461-49bf-9c8a-bfe2b8f652d7",
                                                     "tagType": "td",
                                                     "markdown": ""
                                                 }
@@ -1080,7 +1080,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "8ff2d955-934f-488a-9c7d-25b95ef8c775",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -1089,7 +1089,7 @@
                                     "markdown": "Step 5: Required Documents!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "5dbc1afd-6ace-4fc3-8daf-73624cc46397",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"
@@ -1097,7 +1097,7 @@
                                     "markdown": "- Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "a0c8395b-e374-4dd6-8db6-64cf27309f3d",
                                     "tagType": "p",
                                     "styles": [
                                         "font-bold",
@@ -1106,7 +1106,7 @@
                                     "markdown": "Step 6: Submit to Accounting!"
                                 },
                                 {
-                                    "id": "4.2.5",
+                                    "id": "51da7afd-65f2-49cf-bdda-99ff413a34e8",
                                     "tagType": "p",
                                     "styles": [
                                         "mb-2"

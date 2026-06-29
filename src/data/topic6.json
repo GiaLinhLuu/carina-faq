@@ -1,13 +1,13 @@
 {
-    "id": "6.0",
+    "id": "b6ba24f0-c0da-48cb-a404-29c64d32fe58",
     "topicTitle": "6. FAQs & Tips",
     "questions": [
         {
-            "id": "6.1",
+            "id": "05adfb69-d4ca-4b0c-b357-babd8e65cd11",
             "question": "Trước khi liên hệ với Kế toán",
             "content": [
                 {
-                    "id": "6.1.1",
+                    "id": "d2b6d13b-92e9-41f5-97ad-a5b2f6325cce",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -15,7 +15,7 @@
                     "markdown": "- Đọc hướng dẫn này"
                 },
                 {
-                    "id": "6.1.2",
+                    "id": "fd55a1fb-59de-4bd2-8601-6bf9a9268130",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -23,7 +23,7 @@
                     "markdown": "- Chuẩn bị đầy đủ các giấy tờ cần thiết"
                 },
                 {
-                    "id": "6.1.3",
+                    "id": "d933de00-2561-4e8c-af11-a35f4177d7b3",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -31,7 +31,7 @@
                     "markdown": "- Được sự chấp thuận của cấp Quản lý"
                 },
                 {
-                    "id": "6.1.4",
+                    "id": "4ec4ba78-068e-4b9e-9e47-4d1de621d21d",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -39,7 +39,7 @@
                     "markdown": "- Gửi yêu cầu đầy đủ"
                 },
                 {
-                    "id": "6.1.5",
+                    "id": "7bb61f92-0d58-4cd7-b7bd-4c264cb72869",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -49,11 +49,11 @@
             ]
         },
         {
-            "id": "6.2",
+            "id": "0cfaff7c-423b-402f-9a14-84bda12107f8",
             "question": "Bạn cần biết thế nào là hóa đơn GTGT (VAT) hợp lệ để được chấp nhận thanh toán?",
             "content": [
                 {
-                    "id": "6.2.1",
+                    "id": "27fb4ea4-596b-4bb6-b75c-882e18dc3e75",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -61,7 +61,7 @@
                     "markdown": "- Đúng: **Tên công ty - Mã số thuế - Địa chỉ**"
                 },
                 {
-                    "id": "6.2.2",
+                    "id": "711e3222-5b10-471f-a885-5dd19abf5bdd",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -69,7 +69,7 @@
                     "markdown": "- Đúng nội dung và giá tiền hàng hóa/dịch vụ thực tế"
                 },
                 {
-                    "id": "6.2.3",
+                    "id": "72448c47-4239-40b2-8a3d-4288551021c1",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -77,7 +77,7 @@
                     "markdown": "- Gửi Kế toán ngay sau khi thanh toán"
                 },
                 {
-                    "id": "6.2.4",
+                    "id": "6b3c1d52-a5f9-4976-8731-3441d5d7d4f4",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -87,11 +87,11 @@
             ]
         },
         {
-            "id": "6.3",
+            "id": "67c35393-f361-49e3-9490-a9e286a725ed",
             "question": "Bạn cần xử lý hóa đơn GTGT (VAT) có sai sót?",
             "content": [
                 {
-                    "id": "6.3.1",
+                    "id": "9add5502-9c04-48c4-a81a-a4b03d8c8bab",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -101,11 +101,11 @@
             ]
         },
         {
-            "id": "6.4",
+            "id": "f3725281-2612-4c41-bd89-4b31f0ebf6c5",
             "question": "Bạn cần xin phê duyệt chi phí?",
             "content": [
                 {
-                    "id": "6.4.1",
+                    "id": "e26765cd-99fc-4ba3-acab-46931ab04273",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -113,7 +113,7 @@
                     "markdown": "- Trưởng nhóm/Quản lý"
                 },
                 {
-                    "id": "6.4.2",
+                    "id": "62a89732-0fc0-4146-89c4-ff8a286ae382",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -123,11 +123,11 @@
             ]
         },
         {
-            "id": "6.5",
+            "id": "3f9875d3-1e1d-4be1-8b04-3654c15b2347",
             "question": "Bạn cần xin phê duyệt nhưng Leader/Manager không có mặt?",
             "content": [
                 {
-                    "id": "6.5.1",
+                    "id": "da308c68-94f2-44b3-92b9-93a778507a3f",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -135,7 +135,7 @@
                     "markdown": "- Nhận được chấp thuận qua email/tin nhắn"
                 },
                 {
-                    "id": "6.5.2",
+                    "id": "1b8c0a33-6849-436b-b0b7-f5a0039b14c4",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -143,7 +143,7 @@
                     "markdown": "- Đính kèm phê duyệt khi nộp"
                 },
                 {
-                    "id": "6.5.3",
+                    "id": "0780668e-a28b-466d-ae03-6bc7c8fc1040",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -153,11 +153,11 @@
             ]
         },
         {
-            "id": "6.6",
+            "id": "c721521a-0d40-42e8-b070-a99c99594437",
             "question": "Bạn cần thanh toán gấp / nhà cung cấp hối thúc thanh toán?",
             "content": [
                 {
-                    "id": "6.5.1",
+                    "id": "674e0de7-e500-4c8d-b5e0-bd76bebda686",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -165,7 +165,7 @@
                     "markdown": "- Tuân theo lịch của công ty: phê duyệt vào thứ 5, thanh toán vào thứ 6"
                 },
                 {
-                    "id": "6.5.2",
+                    "id": "71973819-8efe-4b50-a6b8-09e485226ac3",
                     "tagType": "p",
                     "styles": [
                         "ml-6",
@@ -174,7 +174,7 @@
                     "markdown": "- **Tip:** Chủ động lên kế hoạch trước"
                 },
                 {
-                    "id": "6.5.3",
+                    "id": "9b7070e8-49be-4fb2-b827-5cac5ec54ed5",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -182,7 +182,7 @@
                     "markdown": "- Trường hợp khẩn cấp: cần BOD phê duyệt trực tiếp và đính kèm bằng chứng (email/tin nhắn)"
                 },
                 {
-                    "id": "6.5.4",
+                    "id": "92b531d5-a351-4a31-a562-0573938b9fd9",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -192,11 +192,11 @@
             ]
         },
         {
-            "id": "6.7",
+            "id": "b227fef1-25cf-4150-9f2d-f18774206987",
             "question": "Bạn cần Form giấy ĐỀ NGHỊ THANH TOÁN?",
             "content": [
                 {
-                    "id": "6.7.1",
+                    "id": "d3e0b6ca-7319-4b83-9234-e9197b1e0c20",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -206,11 +206,11 @@
             ]
         },
         {
-            "id": "6.8",
+            "id": "e8368d37-cacf-40d6-9ccf-dee4eb052657",
             "question": "Bạn cần support về HỢP ĐỒNG và BIÊN BẢN?",
             "content": [
                 {
-                    "id": "6.8.1",
+                    "id": "d9fe5a4a-b016-4981-9719-a53c8d617597",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -220,11 +220,11 @@
             ]
         },
         {
-            "id": "6.9",
+            "id": "af4e3a90-02e3-4803-a03c-c77b981c9109",
             "question": "Bạn cần support về Team building?",
             "content": [
                 {
-                    "id": "6.9.1",
+                    "id": "1853c3f3-3325-4e92-afc8-5cb7d8c12218",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -234,11 +234,11 @@
             ]
         },
         {
-            "id": "6.10",
+            "id": "648c6601-c1f8-4a82-bebc-3b0afd63a867",
             "question": "Bạn cần văn phòng phẩm / vật dụng văn phòng?",
             "content": [
                 {
-                    "id": "6.10.1",
+                    "id": "4ac14f17-e4d9-40a0-a26f-fc46e1253905",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -248,11 +248,11 @@
             ]
         },
         {
-            "id": "6.11",
+            "id": "b7e12fa0-e44c-4bc7-9fde-98112b4bc705",
             "question": "Bạn cần in tài liệu?",
             "content": [
                 {
-                    "id": "6.11.1",
+                    "id": "c9465564-101c-402c-8e56-ff700f9f900b",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -260,7 +260,7 @@
                     "markdown": "- Bật Bluetooth của máy tính"
                 },
                 {
-                    "id": "6.11.2",
+                    "id": "e3142541-bc9d-429a-a1ba-7a192f7b889c",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -268,7 +268,7 @@
                     "markdown": "- Kết nối với máy in Toshiba"
                 },
                 {
-                    "id": "6.11.3",
+                    "id": "4e8e9057-b6bf-46e3-8d91-0aa8e7101a18",
                     "tagType": "p",
                     "styles": [
                         "ml-6"

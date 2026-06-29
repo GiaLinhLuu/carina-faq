@@ -1,13 +1,13 @@
 {
-    "id": "2.0",
+    "id": "f9bfc830-7282-4a79-b937-9cae7e8a194d",
     "topicTitle": "2. General: Company Tax Information",
     "questions": [
         {
-            "id": "2.1",
+            "id": "23c55195-f6fd-46d0-8308-d82c3ae1939d",
             "question": "A. Golden Owl Solutions (GOS)",
             "content": [
                 {
-                    "id": "2.1.1",
+                    "id": "8be6f645-428b-4662-afe8-5325f5bfe044",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -15,7 +15,7 @@
                     "markdown": "- Tên công ty: CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS"
                 },
                 {
-                    "id": "2.1.2",
+                    "id": "fa5e909a-1855-4592-ba7c-648c38945591",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -23,7 +23,7 @@
                     "markdown": "- Mã số thuế: 0317896459"
                 },
                 {
-                    "id": "2.1.3",
+                    "id": "dbf00312-b7dd-4ec7-ba88-1a9d7481cd43",
                     "tagType": "p",
                     "styles": [
                         "ml-6",
@@ -32,7 +32,7 @@
                     "markdown": "- Địa chỉ: Căn số C-00.13, Tầng trệt, Chung cư lô C1, Số 62 đường Hoàng Thế Thiện, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam"
                 },
                 {
-                    "id": "2.1.4",
+                    "id": "faec0670-ed17-45a6-b598-b611716e1f0d",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -40,7 +40,7 @@
                     "markdown": "- Company Name: CONG TY CO PHAN GOLDEN OWL SOLUTIONS"
                 },
                 {
-                    "id": "2.1.5",
+                    "id": "ac412354-1ca3-4c3c-8865-b7a77904c8b2",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -48,7 +48,7 @@
                     "markdown": "- Tax Code: 0317896459"
                 },
                 {
-                    "id": "2.1.6",
+                    "id": "c6de7693-fd9b-42a8-8968-298aa586b985",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -58,11 +58,11 @@
             ]
         },
         {
-            "id": "2.2",
+            "id": "7619c750-54c8-410e-9b80-094dc33be547",
             "question": "B. LIM Digital Agency",
             "content": [
                 {
-                    "id": "2.2.1",
+                    "id": "d9afc0c6-8f23-411b-a7ec-15df2c8ee2d1",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -70,7 +70,7 @@
                     "markdown": "- Tên công ty: CÔNG TY TNHH LIM DIGITAL AGENCY"
                 },
                 {
-                    "id": "2.2.2",
+                    "id": "eb1756de-09f5-49da-bd74-e4e066ddbbd2",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -78,7 +78,7 @@
                     "markdown": "- Mã số thuế: 0317282875"
                 },
                 {
-                    "id": "2.2.3",
+                    "id": "9b17e6e1-0486-4a8b-89dc-3eeabffe6130",
                     "tagType": "p",
                     "styles": [
                         "ml-6",
@@ -87,7 +87,7 @@
                     "markdown": "- Địa chỉ: Căn số C-00.13, Tầng trệt, Chung cư lô C1, Số 62 đường Hoàng Thế Thiện, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam"
                 },
                 {
-                    "id": "2.2.4",
+                    "id": "1fac85bb-018f-42a5-941e-bb6eddd7a7bc",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -95,7 +95,7 @@
                     "markdown": "- Company Name: CONG TY TNHH LIM DIGITAL AGENCY"
                 },
                 {
-                    "id": "2.2.5",
+                    "id": "2e289ba9-c5fe-4aa1-b98f-eb97dd1da126",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -103,7 +103,7 @@
                     "markdown": "- Tax Code: 0317282875"
                 },
                 {
-                    "id": "2.2.6",
+                    "id": "5b0d9fe7-1ea4-4b4a-ada3-caa5da9c9f50",
                     "tagType": "p",
                     "styles": [
                         "ml-6"

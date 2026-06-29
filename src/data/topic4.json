@@ -1,13 +1,13 @@
 {
-    "id": "4.0",
+    "id": "b02660a2-1128-4b5d-90f2-791b88eae9ed",
     "topicTitle": "4. Marketing Team: Ads Budget Guidelines",
     "questions": [
         {
-            "id": "4.1",
+            "id": "a1cf1b85-12d3-4a85-8493-352400b589b3",
             "question": "A. Thông tin chung về Ads Budget",
             "content": [
                 {
-                    "id": "4.1.1",
+                    "id": "3ca32405-edc5-499e-8764-d8c81b269294",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -15,7 +15,7 @@
                     "markdown": "- Phân tách budget theo từng dự án riêng biệt."
                 },
                 {
-                    "id": "4.1.2",
+                    "id": "789093f1-4184-4b0a-8566-13dc0695606d",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -23,7 +23,7 @@
                     "markdown": "- Tổng hợp ngân sách theo **từng loại thẻ** dùng để nạp ads / thanh toán tool."
                 },
                 {
-                    "id": "4.1.3",
+                    "id": "1e6aee3b-5924-45d2-b0f1-b88bc1486b5d",
                     "tagType": "p",
                     "styles": [
                         "ml-6"
@@ -31,7 +31,7 @@
                     "markdown": "- Gửi budget cho Kế toán và ping trên channel khi cần nạp tiền."
                 },
                 {
-                    "id": "4.1.4",
+                    "id": "0a7ed7e0-4a03-4311-882e-693421c442e6",
                     "tagType": "p",
                     "styles": [
                         "ml-6",
@@ -42,11 +42,11 @@
             ]
         },
         {
-            "id": "4.2",
+            "id": "e5ea075d-da4b-4f0c-b0ce-6980cfe59919",
             "question": "B. Bạn cần nạp tiền Ads",
             "content": [
                 {
-                    "id": "4.2.1",
+                    "id": "8e26ea91-a90b-44fe-bdc9-84ea37ceec05",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -55,22 +55,22 @@
                     "markdown": "Step 1: Submit request!"
                 },
                 {
-                    "id": "4.2.2",
+                    "id": "ba6e666b-d650-4e55-ba19-279644e104db",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.2.2.1",
+                        "id": "dd98de53-adb9-43dc-9521-0dfa137ef225",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.2.2.1.1",
+                                "id": "8cd2db37-375d-4e73-9f68-5a8c1179904b",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.2.2.1.2",
+                                "id": "a44cd215-2fb5-42a2-b5d9-1d8d9cb93652",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -78,32 +78,32 @@
                     },
                     "rows": [
                         {
-                            "id": "4.2.2.2",
+                            "id": "7b69b8cd-e9d8-406b-a496-a93bea343411",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.2.2.1",
+                                    "id": "c5fdef17-c442-4551-9a72-e8c7463148b1",
                                     "tagType": "td",
                                     "markdown": "Gửi yêu cầu cho Kế toán trên channel"
                                 },
                                 {
-                                    "id": "4.2.2.2.2",
+                                    "id": "3a4b946e-0f01-4aea-a9da-8ac8f9d4dfdf",
                                     "tagType": "td",
                                     "markdown": "Thời gian xử lý khoảng **02 ngày làm việc**"
                                 }
                             ]
                         },
                         {
-                            "id": "4.2.2.3",
+                            "id": "b2d5cf4a-b6d8-4132-a860-8c062ecfb42c",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.2.3.1",
+                                    "id": "a30cd166-81c1-48d4-80e8-7934a4d1744c",
                                     "tagType": "td",
                                     "markdown": "Kế toán sẽ thông báo cho team sau khi nạp tiền"
                                 },
                                 {
-                                    "id": "4.2.2.3.2",
+                                    "id": "20854582-5586-491a-a2a7-fa9945512073",
                                     "tagType": "td",
                                     "markdown": ""
                                 }
@@ -112,7 +112,7 @@
                     ]
                 },
                 {
-                    "id": "4.2.3",
+                    "id": "9e83e260-1da9-4b67-90c1-dd472799967c",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -121,22 +121,22 @@
                     "markdown": "Step 2: Invoice information!"
                 },
                 {
-                    "id": "4.2.4",
+                    "id": "5205c4c4-024d-4466-a617-f8187d9ab9e0",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.2.4.1",
+                        "id": "fecb0f92-88e8-4943-8ed2-8b9db28f344e",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.2.4.1.1",
+                                "id": "7f4771ee-c316-4ebb-91cd-8ed4f8fb7134",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.2.4.1.2",
+                                "id": "b94a8915-02ee-484e-8e8a-d6ac06d13080",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -144,48 +144,48 @@
                     },
                     "rows": [
                         {
-                            "id": "4.2.4.2",
+                            "id": "a7fae2a9-668e-400d-b3b3-e35ff36b3f3c",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.4.2.1",
+                                    "id": "150f8234-adc1-4ddc-b8b0-ebb0c458e596",
                                     "tagType": "td",
                                     "markdown": "Setup đúng thông tin: **Tên công ty - Mã số thuế - Địa chỉ**"
                                 },
                                 {
-                                    "id": "4.2.4.2.2",
+                                    "id": "d2555acc-331b-495b-b20a-b6f1444caa80",
                                     "tagType": "td",
                                     "markdown": "Xem ở Topic 2"
                                 }
                             ]
                         },
                         {
-                            "id": "4.2.4.3",
+                            "id": "d0be0931-fc63-4ed4-899a-742fddfca3cf",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.4.3.1",
+                                    "id": "ab597234-ed68-46c8-ac66-185b0bd10ea3",
                                     "tagType": "td",
                                     "markdown": "Đảm bảo tất cả hóa đơn Google Ads và Invoice Meta Ads hiển thị đúng tên dự án & tên công ty"
                                 },
                                 {
-                                    "id": "4.2.4.3.2",
+                                    "id": "420f56e5-168c-4d87-a94e-0e825016899f",
                                     "tagType": "td",
                                     "markdown": "Vui lòng liên hệ Leader/Manager của bạn để được hướng dẫn"
                                 }
                             ]
                         },
                         {
-                            "id": "4.2.4.4",
+                            "id": "5660c0ef-881f-4573-874e-b54a81e2d79b",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.4.4.1",
+                                    "id": "97d0b6d1-206a-4d8d-82e8-a653d05760e4",
                                     "tagType": "td",
                                     "markdown": "Kế toán không chịu trách nhiệm với hóa đơn không hợp lệ"
                                 },
                                 {
-                                    "id": "4.2.4.4.2",
+                                    "id": "0713184f-ec57-4a5a-b338-f4d4aeec2fb4",
                                     "tagType": "td",
                                     "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc khác"
                                 }
@@ -194,7 +194,7 @@
                     ]
                 },
                 {
-                    "id": "4.2.5",
+                    "id": "c5302c89-bedd-41a9-a492-c15254af0472",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -203,22 +203,22 @@
                     "markdown": "Step 3: Required Documents!"
                 },
                 {
-                    "id": "4.2.6",
+                    "id": "1e505b64-b101-4216-9bc8-2a14b0e5ae27",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.2.6.1",
+                        "id": "3e8710db-3d27-43ef-b9d6-cf906f2137d4",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.2.6.1.1",
+                                "id": "2386aa68-5e33-4ae4-b0e2-801ebb960afa",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.2.6.1.2",
+                                "id": "50993732-71b7-472d-80dd-003e3a687cf1",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -226,21 +226,21 @@
                     },
                     "rows": [
                         {
-                            "id": "4.2.6.2",
+                            "id": "4ba1061f-9688-4e6a-931d-9fb049275aba",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.6.2.1",
+                                    "id": "6cb11db3-3c4a-4eb1-8210-c0fd4ef7ea54",
                                     "tagType": "td",
                                     "markdown": "Tổng hợp đầy đủ hóa đơn & invoice vào folder chung theo từng dự án"
                                 },
                                 {
-                                    "id": "4.2.6.2.2",
+                                    "id": "f742bdd4-d357-48df-9c5c-7d5fa49f9929",
                                     "tagType": "td",
                                     "markdown": "",
                                     "children": [
                                         {
-                                            "id": "4.2.6.2.2.1",
+                                            "id": "e2b9dd12-520c-4e21-9e85-9bc6b84dd50b",
                                             "tagType": "a",
                                             "styles": [
                                                 "ml-1",
@@ -256,32 +256,32 @@
                             ]
                         },
                         {
-                            "id": "4.2.6.3",
+                            "id": "9b6a748f-055e-40d2-aed6-c3c7e9414e70",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.6.3.1",
+                                    "id": "53e6c678-146a-4161-b71c-64b7a7744b70",
                                     "tagType": "td",
                                     "markdown": "Vui lòng tổng hợp **NGAY** vì Kế toán cần **kê khai thuế**"
                                 },
                                 {
-                                    "id": "4.2.6.3.2",
+                                    "id": "2bfab385-0591-417e-8740-d460c0a5e997",
                                     "tagType": "td",
                                     "markdown": "**PLEASE DO THIS IMMEDIATELY AFTER CHARGE!**"
                                 }
                             ]
                         },
                         {
-                            "id": "4.2.6.4",
+                            "id": "30811295-db94-4189-91df-37ebeda4f281",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.2.6.4.1",
+                                    "id": "d3e87408-86d7-41a7-abee-7016ef46daed",
                                     "tagType": "td",
                                     "markdown": "Kế toán sẽ tạo lịch nhắc nhở thứ 2 và thứ 5 hằng tuần trên Slack"
                                 },
                                 {
-                                    "id": "4.2.6.4.2",
+                                    "id": "e3698fa0-43a4-4640-b36f-0066881a5a61",
                                     "tagType": "td",
                                     "markdown": ""
                                 }
@@ -292,11 +292,11 @@
             ]
         },
         {
-            "id": "4.3",
+            "id": "f5122f38-27af-45e6-9725-2a5212340471",
             "question": "C. Bạn cần thanh toán Tools",
             "content": [
                 {
-                    "id": "4.3.1",
+                    "id": "f3aa398c-12d5-4b0d-9ad2-dec94a98c42e",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -305,22 +305,22 @@
                     "markdown": "Step 1: Submit request!"
                 },
                 {
-                    "id": "4.3.2",
+                    "id": "dda9a8ec-898a-4415-b3ff-51f0d32b987c",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.3.2.1",
+                        "id": "6b11f0c7-483f-4dcc-9d1b-510451adb324",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.3.2.1.1",
+                                "id": "341055da-bd5e-4465-8b09-4a22c1e7b304",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.3.2.1.2",
+                                "id": "946df18b-5c63-4893-a70e-5d1542418566",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -328,48 +328,48 @@
                     },
                     "rows": [
                         {
-                            "id": "4.3.2.2",
+                            "id": "066108ea-edbe-4665-9d70-8c74b9735859",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.2.2.1",
+                                    "id": "93a3e9c0-693c-4697-a4e8-e90f794a35c6",
                                     "tagType": "td",
                                     "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN (mỗi tool là 1 giấy - không gộp chung - ghi chính xác số tiền)"
                                 },
                                 {
-                                    "id": "4.3.2.2.2",
+                                    "id": "13321fbe-551a-4f54-acd7-9ec4b7099148",
                                     "tagType": "td",
                                     "markdown": "Xem ở Topic 2"
                                 }
                             ]
                         },
                         {
-                            "id": "4.3.2.3",
+                            "id": "e81e18e8-3e13-48f1-8cfe-ce4227b4d844",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.2.3.1",
+                                    "id": "3b558e30-13ed-491c-9d92-2dc95c6e8206",
                                     "tagType": "td",
                                     "markdown": "Sau khi ping Kế toán trên channel, vui lòng chờ xử lý"
                                 },
                                 {
-                                    "id": "4.3.2.3.2",
+                                    "id": "2fa876a5-6464-4b7e-8d2c-23c83c110220",
                                     "tagType": "td",
                                     "markdown": "Hãy sắp xếp để được thanh toán đúng hạn"
                                 }
                             ]
                         },
                         {
-                            "id": "4.3.2.4",
+                            "id": "19cbd318-2cc7-44f7-8df5-97a1cc725453",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.2.4.1",
+                                    "id": "16a379ac-32a1-4b9c-af81-9ac6ed3e1dd6",
                                     "tagType": "td",
                                     "markdown": "Kế toán sẽ thông báo lại cho bạn"
                                 },
                                 {
-                                    "id": "4.3.2.4.2",
+                                    "id": "3b1ac8d2-b9c5-4065-bd77-88b31dbec60a",
                                     "tagType": "td",
                                     "markdown": "Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6"
                                 }
@@ -378,7 +378,7 @@
                     ]
                 },
                 {
-                    "id": "4.3.3",
+                    "id": "c5dbbcef-351e-49f6-8515-6854059a8be2",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -387,22 +387,22 @@
                     "markdown": "Step 2: Invoice information!"
                 },
                 {
-                    "id": "4.3.4",
+                    "id": "32dddef2-5727-482c-81e0-009c6fa91acb",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.3.4.1",
+                        "id": "a254e314-efd1-4257-bd41-f676934b4154",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.3.4.1.1",
+                                "id": "a8415017-7802-4beb-8bcb-ec3da70d00da",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.3.4.1.2",
+                                "id": "a2b00603-eb9f-44e4-af1c-e6987c13d10e",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -410,48 +410,48 @@
                     },
                     "rows": [
                         {
-                            "id": "4.3.4.2",
+                            "id": "33bbef49-495b-4a33-92c9-47916a0eb4cb",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.4.2.1",
+                                    "id": "a1f8d7e4-9822-4231-a78d-9ef8587ab9bc",
                                     "tagType": "td",
                                     "markdown": "Setup đúng thông tin: **Tên công ty - Mã số thuế - Địa chỉ**"
                                 },
                                 {
-                                    "id": "4.3.4.2.2",
+                                    "id": "f997a9e4-3498-44e1-ba1d-d759fdefc0c6",
                                     "tagType": "td",
                                     "markdown": "Xem ở Topic 2"
                                 }
                             ]
                         },
                         {
-                            "id": "4.3.4.3",
+                            "id": "59df0a40-4b8a-4fb6-ba96-5fb7a435313a",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.4.3.1",
+                                    "id": "8aceb941-f838-4fe8-b281-40c4b39697dd",
                                     "tagType": "td",
                                     "markdown": "Đảm bảo tất cả các invoice hiển thị đúng tên dự án & tên công ty"
                                 },
                                 {
-                                    "id": "4.3.4.3.2",
+                                    "id": "8b0837c4-71af-43c8-957e-7622fa507143",
                                     "tagType": "td",
                                     "markdown": "Vui lòng liên hệ Leader/Manager của bạn để được hướng dẫn"
                                 }
                             ]
                         },
                         {
-                            "id": "4.3.4.4",
+                            "id": "4edb18bf-1f34-48fd-a545-928ebb0891f1",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.4.4.1",
+                                    "id": "e870b844-e17b-48c2-be96-db5a6e83822a",
                                     "tagType": "td",
                                     "markdown": "Kế toán không chịu trách nhiệm với hóa đơn không hợp lệ"
                                 },
                                 {
-                                    "id": "4.3.4.4.2",
+                                    "id": "d4c9a825-54ea-438b-b370-f59e3f25c3cb",
                                     "tagType": "td",
                                     "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc khác"
                                 }
@@ -460,7 +460,7 @@
                     ]
                 },
                 {
-                    "id": "4.3.5",
+                    "id": "94044177-4689-4641-8e73-90d2308f4209",
                     "tagType": "p",
                     "styles": [
                         "font-bold",
@@ -469,22 +469,22 @@
                     "markdown": "Step 3: Required Documents!"
                 },
                 {
-                    "id": "4.3.6",
+                    "id": "e2008117-d9eb-4e2a-8465-b1f1b1d56daf",
                     "tagType": "table",
                     "styles": [
                         "mb-2"
                     ],
                     "header": {
-                        "id": "4.3.6.1",
+                        "id": "ea749b31-fd90-4c30-b7c2-38cd654cd83b",
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "4.3.6.1.1",
+                                "id": "ff27090c-4e84-4558-9600-91134428e679",
                                 "tagType": "td",
                                 "markdown": "Description"
                             },
                             {
-                                "id": "4.3.6.1.2",
+                                "id": "f73f420d-8c45-4792-a248-d074601b814a",
                                 "tagType": "td",
                                 "markdown": "Note"
                             }
@@ -492,21 +492,21 @@
                     },
                     "rows": [
                         {
-                            "id": "4.3.6.2",
+                            "id": "c281ff07-16dd-46ef-a776-e6487a3ddfad",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.6.2.1",
+                                    "id": "e30c3e79-7e77-4b7b-9e55-b0a992b4c388",
                                     "tagType": "td",
                                     "markdown": "Tổng hợp đầy đủ hóa đơn & invoice vào folder chung theo từng dự án"
                                 },
                                 {
-                                    "id": "4.3.6.2.2",
+                                    "id": "9aea3bb7-cd1f-484b-93a2-1c698f30726f",
                                     "tagType": "td",
                                     "markdown": "",
                                     "children": [
                                         {
-                                            "id": "4.3.6.2.2.1",
+                                            "id": "e666d750-e9b5-400a-b837-8d71f799e459",
                                             "tagType": "a",
                                             "styles": [
                                                 "ml-1",
@@ -522,32 +522,32 @@
                             ]
                         },
                         {
-                            "id": "4.3.6.3",
+                            "id": "7f5fa6e8-81ff-49e7-bf83-6f5f128ea441",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.6.3.1",
+                                    "id": "51572672-8d8b-40ff-85ee-84cc4e4f5892",
                                     "tagType": "td",
                                     "markdown": "Vui lòng tổng hợp **NGAY** vì Kế toán cần **kê khai thuế**"
                                 },
                                 {
-                                    "id": "4.3.6.3.2",
+                                    "id": "9c0de269-f72d-4e07-b15e-03a00cf20897",
                                     "tagType": "td",
                                     "markdown": "**PLEASE DO THIS IMMEDIATELY AFTER CHARGE!**"
                                 }
                             ]
                         },
                         {
-                            "id": "4.3.6.4",
+                            "id": "bc069290-2f5c-4e50-8514-d7b9847afccf",
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "4.3.6.4.1",
+                                    "id": "37032b54-76a0-4b35-a581-f680b8b29815",
                                     "tagType": "td",
                                     "markdown": "Kế toán sẽ tạo lịch nhắc nhở thứ 2 và thứ 5 hằng tuần trên Slack"
                                 },
                                 {
-                                    "id": "4.3.6.4.2",
+                                    "id": "373229a6-42d6-4eb8-9cb0-88cadd3d64da",
                                     "tagType": "td",
                                     "markdown": ""
                                 }
