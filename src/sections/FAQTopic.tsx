@@ -12,11 +12,11 @@ export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
             <p className="font-bold mb-2 text-primary-content">{topicTitle}</p>
 
             {questions.map((q) => (
-                <div
-                    tabIndex={0}
-                    className="collapse collapse-arrow bg-base-100 border-base-300 border"
-                >
-                    <div className="collapse-title font-bold">{q.question}</div>
+                <div className="collapse collapse-arrow bg-base-100 border border-base-300">
+                    <input type="checkbox" />
+                    <div className="collapse-title font-semibold">
+                        {q.question}
+                    </div>
                     <div className="collapse-content">
                         {q.content?.map((contentItem) => (
                             <ContentDisplayer
