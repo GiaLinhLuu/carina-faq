@@ -1,6 +1,7 @@
 import ReactMarkdown from "react-markdown";
 import type { ContentItem } from "../../types/types";
 import { TableRenderer } from "../TableRenderer/TableRenderer";
+import { SwitchableContent } from "../SwitchableContent/SwitchableContent";
 
 export const ContentDisplayer = ({ content }: { content: ContentItem }) => {
     switch (content.tagType) {
@@ -23,6 +24,8 @@ export const ContentDisplayer = ({ content }: { content: ContentItem }) => {
             );
         case "table":
             return <TableRenderer table={content} />;
+        case "select":
+            return <SwitchableContent data={content} />;
         default:
             return null;
     }

@@ -39,7 +39,24 @@ export interface TableCell {
     children: ContentItem[];
 }
 
-export type ContentItem = ParagraphItem | AnchorItem | TableItem;
+export interface SwitchableContent {
+    id: string;
+    tagType: "selection";
+    title: string;
+    content: ContentItem[];
+}
+
+export interface SwitchableItem {
+    id: string;
+    tagType: "select";
+    switchableItems: SwitchableContent[];
+}
+
+export type ContentItem =
+    | ParagraphItem
+    | AnchorItem
+    | TableItem
+    | SwitchableItem;
 
 export interface IFAQTopic {
     id: string;
