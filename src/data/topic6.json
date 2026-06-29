@@ -1,0 +1,50 @@
+{
+    "id": "6.0",
+    "topicTitle": "6. Another Questions & Tips",
+    "questions": [
+        {
+            "id": "6.1",
+            "question": "Bạn cần in tài liệu?",
+            "content": [
+                {
+                    "id": "6.1.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Bật Bluetooth của máy tính"
+                },
+                {
+                    "id": "6.1.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Kết nối với thiết bị máy in Toshiba"
+                },
+                {
+                    "id": "6.1.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Chọn khổ giấy phù hợp và in"
+                }
+            ]
+        },
+        {
+            "id": "6.2",
+            "question": "Bạn cần support về Hợp đồng?",
+            "content": [
+                {
+                    "id": "6.2.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Please contact with Legal Team (Kian & Harper)"
+                }
+            ]
+        }
+    ]
+}

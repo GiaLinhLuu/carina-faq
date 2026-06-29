@@ -1,0 +1,286 @@
+{
+    "id": "3.0",
+    "topicTitle": "3. For Business Development Team",
+    "questions": [
+        {
+            "id": "3.1",
+            "question": "A. BD có khách hàng mới cần thu tiền?",
+            "content": [
+                {
+                    "id": "3.1.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Hãy ping Kế toán trên channel và báo mình gửi invoice cho khách ASAP nhé"
+                },
+                {
+                    "id": "3.1.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Dự án có biến động về resource 👉 Vui lòng tag để Kế toán nhận thông tin"
+                }
+            ]
+        },
+        {
+            "id": "3.2",
+            "question": "B. BD cần biết khách hàng đã thanh toán tiền chưa?",
+            "content": [
+                {
+                    "id": "3.2.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6",
+                        "inline-block"
+                    ],
+                    "markdown": "- Xem link này:"
+                },
+                {
+                    "id": "3.2.2",
+                    "tagType": "a",
+                    "styles": [
+                        "ml-1",
+                        "italic",
+                        "font-bold",
+                        "inline-block"
+                    ],
+                    "markdown": "Link Google Sheet - Receivable Report",
+                    "href": "https://docs.google.com/spreadsheets/d/1CI3hOQxGR-Pvp-nshYvaef2jKZmCCGkjaJuVo1f1T8A"
+                }
+            ]
+        },
+        {
+            "id": "3.3",
+            "question": "C. BD cần biết Hợp đồng Fixed Price đã đến giai đoạn nào?",
+            "content": [
+                {
+                    "id": "3.3.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- It's your task! If you really don't know, please ask me directly."
+                }
+            ]
+        },
+        {
+            "id": "3.4",
+            "question": "D. BD cần đi tiếp khách và mua quà tặng khách?",
+            "content": [
+                {
+                    "id": "3.4.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Trước tiên hãy xin approve nhé!"
+                },
+                {
+                    "id": "3.4.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Hãy tìm quán có xuất hóa đơn VAT mới được dẫn khách đến nha!"
+                },
+                {
+                    "id": "3.4.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Prepare these:"
+                },
+                {
+                    "id": "3.4.4",
+                    "tagType": "table",
+                    "styles": [
+                        "my-4"
+                    ],
+                    "header": {
+                        "id": "3.4.4.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "3.4.4.1.1",
+                                "tagType": "td",
+                                "markdown": "No"
+                            },
+                            {
+                                "id": "3.4.4.1.2",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "3.4.4.1.3",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "3.4.4.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.2.1",
+                                    "tagType": "td",
+                                    "markdown": "1"
+                                },
+                                {
+                                    "id": "3.4.4.2.2",
+                                    "tagType": "td",
+                                    "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN"
+                                },
+                                {
+                                    "id": "3.4.4.2.3",
+                                    "tagType": "td",
+                                    "markdown": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.3.1",
+                                    "tagType": "td",
+                                    "markdown": "2"
+                                },
+                                {
+                                    "id": "3.4.4.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Giữ lại phiếu tính tiền của quán"
+                                },
+                                {
+                                    "id": "3.4.4.3.3",
+                                    "tagType": "td",
+                                    "markdown": "Please ask for vendor"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.4",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.4.1",
+                                    "tagType": "td",
+                                    "markdown": "3"
+                                },
+                                {
+                                    "id": "3.4.4.4.2",
+                                    "tagType": "td",
+                                    "markdown": "Yêu cầu quán xuất Hóa đơn Giá trị gia tăng nhé!"
+                                },
+                                {
+                                    "id": "3.4.4.4.3",
+                                    "tagType": "td",
+                                    "markdown": "Please ask for vendor"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.5",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.5.1",
+                                    "tagType": "td",
+                                    "markdown": "4"
+                                },
+                                {
+                                    "id": "3.4.4.5.2",
+                                    "tagType": "td",
+                                    "markdown": "Thông tin Mã số thuế của công ty"
+                                },
+                                {
+                                    "id": "3.4.4.5.3",
+                                    "tagType": "td",
+                                    "markdown": "Please find it in topic 2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.6",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.6.1",
+                                    "tagType": "td",
+                                    "markdown": "5"
+                                },
+                                {
+                                    "id": "3.4.4.6.2",
+                                    "tagType": "td",
+                                    "markdown": "Lưu ý bạn nhận hóa đơn trước rồi hãy fwd về cho tui sau nha"
+                                },
+                                {
+                                    "id": "3.4.4.6.3",
+                                    "tagType": "td",
+                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]\n- Bạn gửi càng chi tiết thì mình sẽ đỡ cực hơn rất nhiều 😀"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.7",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.7.1",
+                                    "tagType": "td",
+                                    "markdown": "6"
+                                },
+                                {
+                                    "id": "3.4.4.7.2",
+                                    "tagType": "td",
+                                    "markdown": "Hãy đem đến Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
+                                },
+                                {
+                                    "id": "3.4.4.7.3",
+                                    "tagType": "td",
+                                    "markdown": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.4.8",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "3.4.4.8.1",
+                                    "tagType": "td",
+                                    "markdown": "7"
+                                },
+                                {
+                                    "id": "3.4.4.8.2",
+                                    "tagType": "td",
+                                    "markdown": "Gửi cho Kế toán kiểm tra và thanh toán theo Đề nghị thanh toán của bạn"
+                                },
+                                {
+                                    "id": "3.4.4.8.3",
+                                    "tagType": "td",
+                                    "markdown": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.4.5",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6",
+                        "font-bold",
+                        "text-center"
+                    ],
+                    "markdown": "👉 Team BD sắp xếp claim chi phí trong vòng 07 ngày nhé"
+                }
+            ]
+        }
+    ]
+}

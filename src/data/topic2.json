@@ -1,0 +1,116 @@
+{
+    "id": "2.0",
+    "topicTitle": "2. For General - THÔNG TIN MÃ SỐ THUẾ CÔNG TY",
+    "questions": [
+        {
+            "id": "2.1",
+            "question": "A. NẾU LÀ GOS",
+            "content": [
+                {
+                    "id": "2.1.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Tên công ty: CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS"
+                },
+                {
+                    "id": "2.1.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Mã số thuế: 0317896459"
+                },
+                {
+                    "id": "2.1.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6",
+                        "mb-4"
+                    ],
+                    "markdown": "- Địa chỉ: Căn số C-00.13, Tầng trệt, Chung cư lô C1, Số 62 đường Hoàng Thế Thiện, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam"
+                },
+                {
+                    "id": "2.1.4",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Company Name: CONG TY CO PHAN GOLDEN OWL SOLUTIONS"
+                },
+                {
+                    "id": "2.1.5",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Tax Code: 0317896459"
+                },
+                {
+                    "id": "2.1.6",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Address: Apartment C-00.13, Ground Floor, Block C1 Apartment Building, 62 Hoang The Thien Street, An Khanh Ward, Ho Chi Minh City, Vietnam"
+                }
+            ]
+        },
+        {
+            "id": "2.2",
+            "question": "B. NẾU LÀ LIM",
+            "content": [
+                {
+                    "id": "2.2.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Tên công ty: CÔNG TY TNHH LIM DIGITAL AGENCY"
+                },
+                {
+                    "id": "2.2.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Mã số thuế: 0317282875"
+                },
+                {
+                    "id": "2.2.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6",
+                        "mb-4"
+                    ],
+                    "markdown": "- Địa chỉ: Căn số C-00.13, Tầng trệt, Chung cư lô C1, Số 62 đường Hoàng Thế Thiện, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam"
+                },
+                {
+                    "id": "2.2.4",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Company Name: CONG TY TNHH LIM DIGITAL AGENCY"
+                },
+                {
+                    "id": "2.2.5",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Tax Code: 0317282875"
+                },
+                {
+                    "id": "2.2.6",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Address: Apartment C-00.13, Ground Floor, Block C1 Apartment Building, 62 Hoang The Thien Street, An Khanh Ward, Ho Chi Minh City, Vietnam"
+                }
+            ]
+        }
+    ]
+}

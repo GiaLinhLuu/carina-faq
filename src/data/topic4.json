@@ -1,0 +1,537 @@
+{
+    "id": "4.0",
+    "topicTitle": "4. For Marketing Team - Ads Budget",
+    "questions": [
+        {
+            "id": "4.1",
+            "question": "A. Thông tin chung về Ads Budget",
+            "content": [
+                {
+                    "id": "4.1.1",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Hãy giúp Kế toán phân tách budget cho từng dự án riêng biệt"
+                },
+                {
+                    "id": "4.1.2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Hãy tổng hợp tổng số tiền tương ứng cho từng loại thẻ mà bạn cần Nạp ads/ Thanh toán tool"
+                },
+                {
+                    "id": "4.1.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6",
+                        "mb-4"
+                    ],
+                    "markdown": "- Team hãy gửi Budget cho Kế toán và ping nạp tiền trên channel nhé"
+                }
+            ]
+        },
+        {
+            "id": "4.2",
+            "question": "B. Bạn cần nạp tiền Ads",
+            "content": [
+                {
+                    "id": "4.2.1",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 1: Prepare these!"
+                },
+                {
+                    "id": "4.2.2",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.2.2.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.2.2.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.2.2.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.2.2.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.2.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Sau khi ping Kế toán trên channel, hãy đợi mình process"
+                                },
+                                {
+                                    "id": "4.2.2.2.2",
+                                    "tagType": "td",
+                                    "markdown": "Sẽ mất khoảng 2 ngày tùy tình hình sắp xếp nhen"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.2.2.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.2.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Kế toán sẽ thông báo cho bạn"
+                                },
+                                {
+                                    "id": "4.2.2.3.2",
+                                    "tagType": "td",
+                                    "markdown": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4.2.3",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 2: Please add these!"
+                },
+                {
+                    "id": "4.2.4",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.2.4.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.2.4.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.2.4.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.2.4.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.4.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Setup đúng thông tin Tên công ty - Mã số thuế - Địa chỉ"
+                                },
+                                {
+                                    "id": "4.2.4.2.2",
+                                    "tagType": "td",
+                                    "markdown": "Please find it in topic 2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.2.4.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.4.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Đảm bảo tất cả các Hóa đơn Google Ads và Invoice Meta Ads đều hiển thị đúng tên dự án & tên công ty"
+                                },
+                                {
+                                    "id": "4.2.4.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng yêu cầu Leader/ Manager của bạn hướng dẫn"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.2.4.4",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.4.4.1",
+                                    "tagType": "td",
+                                    "markdown": "Kế toán không chịu trách nhiệm nếu hóa đơn không hợp lệ"
+                                },
+                                {
+                                    "id": "4.2.4.4.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc hoặc cần mình support vấn đề khác liên quan đến việc này"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4.2.5",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 3: Collect these!"
+                },
+                {
+                    "id": "4.2.6",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.2.6.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.2.6.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.2.6.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.2.6.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.6.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Đảm bảo tất cả các Hóa đơn & Invoice đều được tổng hợp vào folder chung"
+                                },
+                                {
+                                    "id": "4.2.6.2.2",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "4.2.6.2.2.1",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "Link Marketing Invoice",
+                                            "href": "https://drive.google.com/drive/folders/1cgYZbN2bSzhpJhDd3YQXnTnXA9Mqwm1O?usp=drive_link"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.2.6.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.2.6.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Các bạn hãy collect hóa đơn và add vào folder của các dự án tương ứng nhé"
+                                },
+                                {
+                                    "id": "4.2.6.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng yêu cầu Leader/ Manager của bạn hướng dẫn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4.3",
+            "question": "C. Bạn cần thanh toán Tools",
+            "content": [
+                {
+                    "id": "4.3.1",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 1: Prepare these!"
+                },
+                {
+                    "id": "4.3.2",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.3.2.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.3.2.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.3.2.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.3.2.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.2.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN (mỗi tool là 1 giấy - không gộp chung - viết chính xác số tiền)"
+                                },
+                                {
+                                    "id": "4.3.2.2.2",
+                                    "tagType": "td",
+                                    "markdown": "Please find it in topic 2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.2.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.2.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Sau khi ping Kế toán trên channel, hãy đợi mình process"
+                                },
+                                {
+                                    "id": "4.3.2.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng báo trước deadline của bạn khoảng 3 ngày"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.2.4",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.2.4.1",
+                                    "tagType": "td",
+                                    "markdown": "Kế toán sẽ thông báo cho bạn"
+                                },
+                                {
+                                    "id": "4.3.2.4.2",
+                                    "tagType": "td",
+                                    "markdown": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4.3.3",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 2: Please add these!"
+                },
+                {
+                    "id": "4.3.4",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.3.4.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.3.4.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.3.4.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.3.4.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.4.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Setup đúng thông tin Tên công ty - Mã số thuế - Địa chỉ"
+                                },
+                                {
+                                    "id": "4.3.4.2.2",
+                                    "tagType": "td",
+                                    "markdown": "Please find it in topic 2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.4.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.4.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Đảm bảo tất cả các invoice đều hiển thị đúng tên dự án & tên công ty"
+                                },
+                                {
+                                    "id": "4.3.4.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng yêu cầu Leader/ Manager của bạn hướng dẫn"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.4.4",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.4.4.1",
+                                    "tagType": "td",
+                                    "markdown": "Kế toán không chịu trách nhiệm nếu hóa đơn không hợp lệ"
+                                },
+                                {
+                                    "id": "4.3.4.4.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc hoặc cần mình support vấn đề khác liên quan đến việc này"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4.3.5",
+                    "tagType": "p",
+                    "styles": [
+                        "font-bold",
+                        "mb-2"
+                    ],
+                    "markdown": "Step 3: Collect these!"
+                },
+                {
+                    "id": "4.3.6",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "4.3.6.1",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "4.3.6.1.1",
+                                "tagType": "td",
+                                "markdown": "Description"
+                            },
+                            {
+                                "id": "4.3.6.1.2",
+                                "tagType": "td",
+                                "markdown": "Note"
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "4.3.6.2",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.6.2.1",
+                                    "tagType": "td",
+                                    "markdown": "Đảm bảo tất cả các Hóa đơn & Invoice đều được tổng hợp vào folder chung"
+                                },
+                                {
+                                    "id": "4.3.6.2.2",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "4.3.6.2.2.1",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "Link Marketing Invoice",
+                                            "href": "https://drive.google.com/drive/folders/1cgYZbN2bSzhpJhDd3YQXnTnXA9Mqwm1O?usp=drive_link"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.6.3",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.6.3.1",
+                                    "tagType": "td",
+                                    "markdown": "Các bạn hãy collect hóa đơn và add vào folder của các dự án tương ứng nhé"
+                                },
+                                {
+                                    "id": "4.3.6.3.2",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng yêu cầu Leader/ Manager của bạn hướng dẫn"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3.6.4",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "4.3.6.4.1",
+                                    "tagType": "td",
+                                    "markdown": "Vui lòng collect invoice ASAP vì Kế toán cần kê khai thuế nhé"
+                                },
+                                {
+                                    "id": "4.3.6.4.2",
+                                    "tagType": "td",
+                                    "markdown": "**PLEASE DO NOT FORGET TO DO THIS**"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

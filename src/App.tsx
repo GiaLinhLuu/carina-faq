@@ -1,14 +1,13 @@
 import { useMemo, useState } from "react";
-import data from "./data/data.json";
+import { getFAQData } from "./data/data";
 import { FAQTopic } from "./sections/FAQTopic";
 import { Hero } from "./sections/Hero";
 import { Navbar } from "./sections/Navbar";
-import type { IFAQTopic } from "./types/types";
 import { filterFAQ } from "./utils/utils";
 import { AnimatedBackground } from "./components/AnimatedBackground/AnimatedBackground";
 
 function App() {
-    const faqData = data as IFAQTopic[];
+    const faqData = getFAQData();
     const [keyword, setKeyword] = useState("");
     const filteredData = useMemo(() => {
         return filterFAQ(faqData, keyword);
