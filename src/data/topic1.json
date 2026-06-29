@@ -1118,6 +1118,248 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "b6ce50b8-b698-4ecf-b295-c94768463157",
+            "question": "C. CÁC FORM ĐỀ NGHỊ THANH TOÁN DÀNH CHO BẠN",
+            "content": [
+                {
+                    "id": "70d7b419-6422-44a9-bb3b-356ef817caca",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "0759b20e-8573-4066-b222-8b507d3eeea4",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "92d00441-c7c0-4fcc-a3ff-79587ddcc358",
+                                "tagType": "td",
+                                "markdown": "1. Golden Owl Solutions (GOS)"
+                            },
+                            {
+                                "id": "afd8fdc6-dc5a-40f9-9177-f92ffb6c5f06",
+                                "tagType": "td",
+                                "markdown": ""
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "822107be-a9ee-4d4e-a66b-145e1709d10d",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "7aa3655f-57a3-44d6-bf8c-068c55e92108",
+                                    "tagType": "td",
+                                    "markdown": "GOS - GIẤY ĐỀ NGHỊ THANH TOÁN"
+                                },
+                                {
+                                    "id": "52e698d9-5a13-4ac2-acb6-b2f70f9b91b0",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "75d88428-5b7c-462e-b6a7-4aab3db8127e",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1N55eXH19jCORK1OTZmh3DxldSj2hM-cl&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bbf17b56-784c-4760-a0b9-ff4118215102",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "78bfa4b4-3d14-4856-aa8d-f489b00bdb0d",
+                                    "tagType": "td",
+                                    "markdown": "GOS - GIẤY ĐỀ NGHỊ TẠM ỨNG"
+                                },
+                                {
+                                    "id": "913fbb7f-0c35-4447-af52-8f6041a84e4f",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "90672adb-37e7-4277-b32d-73fd338e1aa9",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1Amad4eZx8X_WStK6PEi3y7RLxO3YMtrk&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12d22272-760d-4543-a8a8-92494e3e61da",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "581010a4-cae2-4c9a-b099-b018887096ae",
+                                    "tagType": "td",
+                                    "markdown": "GOS - GIẤY ĐỀ NGHỊ THANH TOÁN TẠM ỨNG"
+                                },
+                                {
+                                    "id": "966c1c4c-1d48-4cea-ba8f-c1b24f3b88ac",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "29aa410b-1a4d-48ae-a51f-1711ee39f1be",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1iQJxqOlIUzjvlSjIVdybCaauCeJQT-HD&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "584d4d6f-1cba-40cd-b311-537d080d6a5c",
+                    "tagType": "table",
+                    "styles": [
+                        "mb-2"
+                    ],
+                    "header": {
+                        "id": "bd1a333b-53b1-4b34-8da2-21b10367ae32",
+                        "tagType": "th",
+                        "cells": [
+                            {
+                                "id": "86cf2c7f-6089-4e61-bbf9-27ce2f646edd",
+                                "tagType": "td",
+                                "markdown": "2. LIM Digital Agency"
+                            },
+                            {
+                                "id": "959c088a-1bba-4666-802a-789bf47a01bd",
+                                "tagType": "td",
+                                "markdown": ""
+                            }
+                        ]
+                    },
+                    "rows": [
+                        {
+                            "id": "8ee9e318-82d7-49fe-8d15-46f6b9afac45",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "6de80b05-5061-486e-9d2a-73f974669076",
+                                    "tagType": "td",
+                                    "markdown": "LIM - GIẤY ĐỀ NGHỊ THANH TOÁN"
+                                },
+                                {
+                                    "id": "9f0bca39-fb92-447d-b587-cce0d9329c9f",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "c08dc369-039e-43bc-bc35-4914c69b0677",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1RVC3MG3hja2hPr1qiW8v9zmPfQ99tn93&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "980093ec-2f85-4afb-ac77-80c97cba5997",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "30ada76d-2e34-4c3b-a22e-758ebede7f88",
+                                    "tagType": "td",
+                                    "markdown": "LIM - GIẤY ĐỀ NGHỊ TẠM ỨNG"
+                                },
+                                {
+                                    "id": "3bf9be83-5b9f-45c6-917e-7654d20909c9",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "0dae4900-fa14-42a8-9de7-a197b55ecf0b",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1ZTcII9wZk2TS-Plp-TDdmu48t0bcgSk0&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4312242a-5bcb-48dc-88e4-f3e910be74f7",
+                            "tagType": "tr",
+                            "cells": [
+                                {
+                                    "id": "0fabd8b6-830d-44ed-9430-c862b7a947d0",
+                                    "tagType": "td",
+                                    "markdown": "LIM - GIẤY ĐỀ NGHỊ THANH TOÁN TẠM ỨNG"
+                                },
+                                {
+                                    "id": "1251fde6-1db4-43cb-ad5a-ce0e58c338e9",
+                                    "tagType": "td",
+                                    "markdown": "",
+                                    "children": [
+                                        {
+                                            "id": "a2cd8641-ae31-4e4c-abc2-7bcd80d1d40c",
+                                            "tagType": "a",
+                                            "styles": [
+                                                "ml-1",
+                                                "italic",
+                                                "underline",
+                                                "font-bold",
+                                                "inline-block"
+                                            ],
+                                            "markdown": "DOWNLOAD",
+                                            "href": "https://drive.google.com/open?id=1PKSodeUc1cZAef_PPIQ4SA9T1h1bYFQI&usp=drive_copy"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -44,6 +44,7 @@
                         "ml-1",
                         "italic",
                         "font-bold",
+                        "underline",
                         "inline-block"
                     ],
                     "markdown": "Link Google Sheet - Receivable Report",

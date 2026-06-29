@@ -246,7 +246,8 @@
                                                 "ml-1",
                                                 "italic",
                                                 "font-bold",
-                                                "inline-block"
+                                                "inline-block",
+                                                "underline"
                                             ],
                                             "markdown": "Link Marketing Invoice",
                                             "href": "https://drive.google.com/drive/folders/1cgYZbN2bSzhpJhDd3YQXnTnXA9Mqwm1O?usp=drive_link"
@@ -512,7 +513,8 @@
                                                 "ml-1",
                                                 "italic",
                                                 "font-bold",
-                                                "inline-block"
+                                                "inline-block",
+                                                "underline"
                                             ],
                                             "markdown": "Link Marketing Invoice",
                                             "href": "https://drive.google.com/drive/folders/1cgYZbN2bSzhpJhDd3YQXnTnXA9Mqwm1O?usp=drive_link"
