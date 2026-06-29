@@ -1,10 +1,10 @@
 {
     "id": "2.0",
-    "topicTitle": "2. For General - THÔNG TIN MÃ SỐ THUẾ CÔNG TY",
+    "topicTitle": "2. General: Company Tax Information",
     "questions": [
         {
             "id": "2.1",
-            "question": "A. NẾU LÀ GOS",
+            "question": "A. Golden Owl Solutions (GOS)",
             "content": [
                 {
                     "id": "2.1.1",
@@ -59,7 +59,7 @@
         },
         {
             "id": "2.2",
-            "question": "B. NẾU LÀ LIM",
+            "question": "B. LIM Digital Agency",
             "content": [
                 {
                     "id": "2.2.1",

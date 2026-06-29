@@ -1,6 +1,6 @@
 {
     "id": "3.0",
-    "topicTitle": "3. For Business Development Team",
+    "topicTitle": "3. Business Development Team: Guidelines",
     "questions": [
         {
             "id": "3.1",
@@ -12,7 +12,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Hãy ping Kế toán trên channel và báo mình gửi invoice cho khách ASAP nhé"
+                    "markdown": "- Có khách hàng mới cần thu tiền 👉 Tag Kế toán để gửi invoice."
                 },
                 {
                     "id": "3.1.2",
@@ -20,7 +20,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Dự án có biến động về resource 👉 Vui lòng tag để Kế toán nhận thông tin"
+                    "markdown": "- Có thay đổi về resource 👉 Tag Kế toán để cập nhật."
                 }
             ]
         },
@@ -48,6 +48,14 @@
                     ],
                     "markdown": "Link Google Sheet - Receivable Report",
                     "href": "https://docs.google.com/spreadsheets/d/1CI3hOQxGR-Pvp-nshYvaef2jKZmCCGkjaJuVo1f1T8A"
+                },
+                {
+                    "id": "3.2.3",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Kế toán sẽ gửi email tình hình công nợ cho BD vào thứ 6 hằng tuần. BD có **trách nhiệm theo dõi, làm việc với khách hàng** để thu hồi công nợ và **phản hồi tình trạng xử lý** cho Kế toán."
                 }
             ]
         },
@@ -75,7 +83,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Trước tiên hãy xin approve nhé!"
+                    "markdown": "- Đề xuất đã được cấp Quản lý phê duyệt"
                 },
                 {
                     "id": "3.4.2",
@@ -83,15 +91,16 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Hãy tìm quán có xuất hóa đơn VAT mới được dẫn khách đến nha!"
+                    "markdown": "- Lựa chọn nhà hàng/cửa hàng có thể xuất hóa đơn GTGT"
                 },
                 {
                     "id": "3.4.3",
                     "tagType": "p",
                     "styles": [
-                        "ml-6"
+                        "ml-6",
+                        "font-bold"
                     ],
-                    "markdown": "- Prepare these:"
+                    "markdown": "- Required Documents!"
                 },
                 {
                     "id": "3.4.4",
@@ -138,7 +147,7 @@
                                 {
                                     "id": "3.4.4.2.3",
                                     "tagType": "td",
-                                    "markdown": ""
+                                    "markdown": "Xem ở Topic 2C"
                                 }
                             ]
                         },
@@ -154,12 +163,12 @@
                                 {
                                     "id": "3.4.4.3.2",
                                     "tagType": "td",
-                                    "markdown": "Giữ lại phiếu tính tiền của quán"
+                                    "markdown": "Giữ lại phiếu tính tiền"
                                 },
                                 {
                                     "id": "3.4.4.3.3",
                                     "tagType": "td",
-                                    "markdown": "Please ask for vendor"
+                                    "markdown": "Yêu cầu từ nhà cung cấp"
                                 }
                             ]
                         },
@@ -175,12 +184,12 @@
                                 {
                                     "id": "3.4.4.4.2",
                                     "tagType": "td",
-                                    "markdown": "Yêu cầu quán xuất Hóa đơn Giá trị gia tăng nhé!"
+                                    "markdown": "Yêu cầu nhà cung cấp xuất Hóa đơn GTGT"
                                 },
                                 {
                                     "id": "3.4.4.4.3",
                                     "tagType": "td",
-                                    "markdown": "Please ask for vendor"
+                                    "markdown": "Yêu cầu từ nhà cung cấp"
                                 }
                             ]
                         },
@@ -201,7 +210,7 @@
                                 {
                                     "id": "3.4.4.5.3",
                                     "tagType": "td",
-                                    "markdown": "Please find it in topic 2"
+                                    "markdown": "Xem ở Topic 2"
                                 }
                             ]
                         },
@@ -217,12 +226,12 @@
                                 {
                                     "id": "3.4.4.6.2",
                                     "tagType": "td",
-                                    "markdown": "Lưu ý bạn nhận hóa đơn trước rồi hãy fwd về cho tui sau nha"
+                                    "markdown": "Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán"
                                 },
                                 {
                                     "id": "3.4.4.6.3",
                                     "tagType": "td",
-                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]\n- Bạn gửi càng chi tiết thì mình sẽ đỡ cực hơn rất nhiều 😀"
+                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 }
                             ]
                         },
@@ -238,7 +247,7 @@
                                 {
                                     "id": "3.4.4.7.2",
                                     "tagType": "td",
-                                    "markdown": "Hãy đem đến Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
+                                    "markdown": "Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
                                 },
                                 {
                                     "id": "3.4.4.7.3",
@@ -259,12 +268,12 @@
                                 {
                                     "id": "3.4.4.8.2",
                                     "tagType": "td",
-                                    "markdown": "Gửi cho Kế toán kiểm tra và thanh toán theo Đề nghị thanh toán của bạn"
+                                    "markdown": "Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
                                 },
                                 {
                                     "id": "3.4.4.8.3",
                                     "tagType": "td",
-                                    "markdown": ""
+                                    "markdown": "Thứ 4 hằng tuần"
                                 }
                             ]
                         }
@@ -278,7 +287,7 @@
                         "font-bold",
                         "text-center"
                     ],
-                    "markdown": "👉 Team BD sắp xếp claim chi phí trong vòng 07 ngày nhé"
+                    "markdown": "👉 Team BD sắp xếp claim chi phí trong vòng 07 ngày"
                 }
             ]
         }

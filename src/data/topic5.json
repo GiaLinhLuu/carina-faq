@@ -1,6 +1,6 @@
 {
     "id": "5.0",
-    "topicTitle": "5. For Tools Online & Software Services",
+    "topicTitle": "5. Online Tools & Software Services",
     "questions": [
         {
             "id": "5.1",
@@ -13,7 +13,7 @@
                         "font-bold",
                         "mb-2"
                     ],
-                    "markdown": "Step 1: Prepare these!"
+                    "markdown": "Step 1: Submit request!"
                 },
                 {
                     "id": "5.1.2",
@@ -45,12 +45,12 @@
                                 {
                                     "id": "5.1.2.2.1",
                                     "tagType": "td",
-                                    "markdown": "Đề xuất mua dịch vụ => có phê duyệt của cấp có thẩm quyền"
+                                    "markdown": "Đề xuất mua hàng hóa/dịch vụ (đã được cấp Quản lý phê duyệt)"
                                 },
                                 {
                                     "id": "5.1.2.2.2",
                                     "tagType": "td",
-                                    "markdown": "No specific form required - you can provide your own form or Message/ Email with approval"
+                                    "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
                                 }
                             ]
                         }
@@ -63,7 +63,7 @@
                         "font-bold",
                         "mb-2"
                     ],
-                    "markdown": "Step 2: Please add these!"
+                    "markdown": "Step 2: Invoice information!"
                 },
                 {
                     "id": "5.1.4",
@@ -95,12 +95,12 @@
                                 {
                                     "id": "5.1.4.2.1",
                                     "tagType": "td",
-                                    "markdown": "Setup đúng thông tin Tên công ty - Mã số thuế - Địa chỉ"
+                                    "markdown": "Setup đúng thông tin: **Tên công ty - Mã số thuế - Địa chỉ**"
                                 },
                                 {
                                     "id": "5.1.4.2.2",
                                     "tagType": "td",
-                                    "markdown": "Please find it in topic 2"
+                                    "markdown": "Xem ở Topic 2"
                                 }
                             ]
                         },
@@ -111,12 +111,12 @@
                                 {
                                     "id": "5.1.4.3.1",
                                     "tagType": "td",
-                                    "markdown": "Đảm bảo tất cả các invoice đều hiển thị đúng tên công ty"
+                                    "markdown": "Đảm bảo tất cả các invoice hiển thị đúng tên công ty"
                                 },
                                 {
                                     "id": "5.1.4.3.2",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng yêu cầu Leader/ Manager của bạn hướng dẫn"
+                                    "markdown": "Vui lòng liên hệ Leader/Manager của bạn để được hướng dẫn"
                                 }
                             ]
                         },
@@ -127,12 +127,12 @@
                                 {
                                     "id": "5.1.4.4.1",
                                     "tagType": "td",
-                                    "markdown": "Kế toán không chịu trách nhiệm nếu hóa đơn không hợp lệ"
+                                    "markdown": "Kế toán không chịu trách nhiệm với hóa đơn không hợp lệ"
                                 },
                                 {
                                     "id": "5.1.4.4.2",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc hoặc cần mình support vấn đề khác liên quan đến việc này"
+                                    "markdown": "Vui lòng liên hệ Kế toán nếu có trục trặc khác"
                                 }
                             ]
                         }
@@ -145,7 +145,7 @@
                         "font-bold",
                         "mb-2"
                     ],
-                    "markdown": "Step 3: Collect these!"
+                    "markdown": "Step 3: Required Documents!"
                 },
                 {
                     "id": "5.1.6",
@@ -177,7 +177,7 @@
                                 {
                                     "id": "5.1.6.2.1",
                                     "tagType": "td",
-                                    "markdown": "Hãy gửi tất cả các Hóa đơn & Invoice cho Kế toán sau khi charge thành công"
+                                    "markdown": "Gửi tất cả Hóa đơn & Invoice cho Kế toán ngay sau khi charge thành công"
                                 },
                                 {
                                     "id": "5.1.6.2.2",
@@ -193,7 +193,7 @@
                                 {
                                     "id": "5.1.6.3.1",
                                     "tagType": "td",
-                                    "markdown": "Tạo lịch gửi invoice cho Kế toán hằng tháng hoặc setup email nhận mặc định "
+                                    "markdown": "Thiết lập lịch gửi invoice định kỳ hàng tháng hoặc setup email nhận mặc định"
                                 },
                                 {
                                     "id": "5.1.6.3.2",
@@ -209,12 +209,12 @@
                                 {
                                     "id": "5.1.6.4.1",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng collect invoice ASAP vì Kế toán cần kê khai thuế nhé"
+                                    "markdown": "Vui lòng gửi **NGAY** vì Kế toán cần **kê khai thuế**"
                                 },
                                 {
                                     "id": "5.1.6.4.2",
                                     "tagType": "td",
-                                    "markdown": "**PLEASE DO NOT FORGET TO DO THIS**"
+                                    "markdown": "**PLEASE DO THIS IMMEDIATELY AFTER CHARGE!**"
                                 }
                             ]
                         }

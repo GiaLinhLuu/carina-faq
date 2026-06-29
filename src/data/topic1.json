@@ -1,6 +1,6 @@
 {
     "id": "1.0",
-    "topicTitle": "1. For General - BẠN CẦN MUA HÀNG VÀ THANH TOÁN TIỀN?",
+    "topicTitle": "1. General: Purchase & Payment Guide",
     "questions": [
         {
             "id": "1.1",
@@ -70,7 +70,7 @@
                         "font-bold",
                         "italic"
                     ],
-                    "markdown": "Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6"
+                    "markdown": "👉 Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6."
                 },
                 {
                     "id": "1.1.9",
@@ -80,7 +80,7 @@
                         "font-bold",
                         "italic"
                     ],
-                    "markdown": "👉 Bạn hãy sắp xếp để được thanh toán đúng hạn nhé."
+                    "markdown": "👉 Hãy sắp xếp để được thanh toán đúng hạn."
                 }
             ]
         }
