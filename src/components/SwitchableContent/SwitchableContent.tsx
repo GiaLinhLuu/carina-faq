@@ -26,7 +26,11 @@ export const SwitchableContent = ({ data }: { data: SwitchableItem }) => {
             {activeItemId && <div className="divider"></div>}
 
             {items.map((item) => (
-                <SwitchItem isVisible={item.id === activeItemId} data={item} />
+                <SwitchItem
+                    key={item.id}
+                    isVisible={item.id === activeItemId}
+                    data={item}
+                />
             ))}
         </div>
     );

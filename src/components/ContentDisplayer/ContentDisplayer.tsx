@@ -7,9 +7,9 @@ export const ContentDisplayer = ({ content }: { content: ContentItem }) => {
     switch (content.tagType) {
         case "p":
             return (
-                <p className={content.styles.join(" ")}>
+                <div className={content.styles.join(" ")}>
                     <ReactMarkdown>{content.markdown}</ReactMarkdown>
-                </p>
+                </div>
             );
         case "a":
             return (

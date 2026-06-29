@@ -12,7 +12,10 @@ export const FAQTopic = ({ topicTitle, questions }: FAQTopicProps) => {
             <p className="font-bold mb-2 text-primary-content">{topicTitle}</p>
 
             {questions.map((q) => (
-                <div className="collapse collapse-arrow bg-base-100 border border-base-300">
+                <div
+                    key={q.id}
+                    className="collapse collapse-arrow bg-base-100 border border-base-300"
+                >
                     <input type="checkbox" />
                     <div className="collapse-title font-semibold">
                         {q.question}
