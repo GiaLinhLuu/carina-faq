@@ -201,7 +201,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Xem ở Topic 2C"
+                    "markdown": "- Xem ở Topic 1C"
                 }
             ]
         },
@@ -274,6 +274,14 @@
                         "ml-6"
                     ],
                     "markdown": "- Chọn khổ giấy phù hợp và tiến hành in"
+                },
+                {
+                    "id": "c10f43f8-5591-469c-a6cf-bac6614b5ac9",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- **Tip:** Có thể kết nối với máy in bằng điện thoại qua Bluetooth"
                 }
             ]
         }
