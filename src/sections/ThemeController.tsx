@@ -5,8 +5,6 @@ const themes = [
     { value: "dark", label: "Dark" },
     { value: "cupcake", label: "Cupcake" },
     { value: "bumblebee", label: "Bumblebee" },
-    { value: "retro", label: "Retro" },
-    { value: "pastel", label: "Pastel" },
 ] as const;
 
 export const ThemeController = () => {
