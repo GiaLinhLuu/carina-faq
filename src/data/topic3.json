@@ -114,11 +114,6 @@
                         "tagType": "th",
                         "cells": [
                             {
-                                "id": "5df03212-32ad-4493-89ac-d34e4ce1587f",
-                                "tagType": "td",
-                                "markdown": "No"
-                            },
-                            {
                                 "id": "a42a0fc8-6ff1-45cb-81cf-17ae18717d0f",
                                 "tagType": "td",
                                 "markdown": "Description"
@@ -136,11 +131,6 @@
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "21147ab7-73ca-4d75-b568-49e7c0cde6ef",
-                                    "tagType": "td",
-                                    "markdown": "1"
-                                },
-                                {
                                     "id": "8be4d5bf-0fce-4c9e-833c-ac8de61de150",
                                     "tagType": "td",
                                     "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN"
@@ -156,11 +146,6 @@
                             "id": "2f03e1f6-fa54-4b53-a75e-d8232a39640e",
                             "tagType": "tr",
                             "cells": [
-                                {
-                                    "id": "a61de254-c17c-40cf-ba4a-65900ef6dedf",
-                                    "tagType": "td",
-                                    "markdown": "2"
-                                },
                                 {
                                     "id": "a79649bf-b816-4847-aebc-c8c190af06e8",
                                     "tagType": "td",
@@ -178,11 +163,6 @@
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "2c5c5e8f-a4a5-43d8-9e2a-01cb302d1d57",
-                                    "tagType": "td",
-                                    "markdown": "3"
-                                },
-                                {
                                     "id": "e9713c34-8690-4cd3-9658-aac44519eee9",
                                     "tagType": "td",
                                     "markdown": "Yêu cầu nhà cung cấp xuất Hóa đơn GTGT"
@@ -198,11 +178,6 @@
                             "id": "33bfdbd2-0b4f-48e2-933a-2ae6bf8e0e26",
                             "tagType": "tr",
                             "cells": [
-                                {
-                                    "id": "c75b0873-9a15-4bb5-bdbb-8edd90bceb9c",
-                                    "tagType": "td",
-                                    "markdown": "4"
-                                },
                                 {
                                     "id": "e21e5e5c-7e73-48bd-a71b-513f70cbbe34",
                                     "tagType": "td",
@@ -220,11 +195,6 @@
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "ec8a4d6e-f0d7-49a9-868f-bf8f5f068bd8",
-                                    "tagType": "td",
-                                    "markdown": "5"
-                                },
-                                {
                                     "id": "c45e9aed-6b70-4beb-887c-dd3570dea7f3",
                                     "tagType": "td",
                                     "markdown": "Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán"
@@ -241,11 +211,6 @@
                             "tagType": "tr",
                             "cells": [
                                 {
-                                    "id": "e1be6a7e-b616-4766-ad9d-a773a16b67e6",
-                                    "tagType": "td",
-                                    "markdown": "6"
-                                },
-                                {
                                     "id": "616e2c75-d839-44b8-be47-b82e4837cdee",
                                     "tagType": "td",
                                     "markdown": "Trình Trưởng bộ phận của bạn: Kiểm tra - Đối chiếu - Ký xác nhận"
@@ -261,11 +226,6 @@
                             "id": "18ef0637-358d-464d-aa72-f55f780d9cc3",
                             "tagType": "tr",
                             "cells": [
-                                {
-                                    "id": "35276db1-ba2a-4f3c-a4fc-a1847cbb125b",
-                                    "tagType": "td",
-                                    "markdown": "7"
-                                },
                                 {
                                     "id": "aea1dd4b-68e4-44cd-a436-c0258867a996",
                                     "tagType": "td",
