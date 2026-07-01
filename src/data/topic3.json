@@ -12,7 +12,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Có khách hàng mới cần thu tiền 👉 Tag Kế toán để gửi invoice."
+                    "markdown": "- Có khách hàng mới cần thu tiền 👉 Tag Kế toán để phát hành invoice"
                 },
                 {
                     "id": "29ac93d5-8206-4284-b82a-6110d753e2a0",
@@ -20,7 +20,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Có thay đổi về resource 👉 Tag Kế toán để cập nhật."
+                    "markdown": "- Có thay đổi về resource, giá trị hợp đồng hoặc thông tin thanh toán 👉 Tag Kế toán để cập nhật"
                 }
             ]
         },
@@ -35,7 +35,7 @@
                         "ml-6",
                         "inline-block"
                     ],
-                    "markdown": "- Xem link này:"
+                    "markdown": "- Theo dõi công nợ tại:"
                 },
                 {
                     "id": "83770d56-07b5-46fb-935f-27d39a8f1200",
@@ -56,13 +56,13 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Kế toán sẽ gửi email tình hình công nợ cho BD vào thứ 6 hằng tuần. BD có **trách nhiệm theo dõi, làm việc với khách hàng** để thu hồi công nợ và **phản hồi tình trạng xử lý** cho Kế toán."
+                    "markdown": "- Kế toán sẽ gửi email tình hình công nợ cho BD vào thứ 6 hằng tuần. BD có **trách nhiệm theo dõi, làm việc với khách hàng** để thu hồi công nợ và **phản hồi tình trạng xử lý** cho Kế toán"
                 }
             ]
         },
         {
             "id": "1474b70e-4170-4fd6-8248-832a272d8a86",
-            "question": "C. BD cần biết Hợp đồng Fixed Price đã đến giai đoạn nào?",
+            "question": "C. BD cần biết Dự án đã đến giai đoạn nào?",
             "content": [
                 {
                     "id": "a0135666-9801-49af-b6c0-df25bbfd1d36",
@@ -70,7 +70,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- It's your task! If you really don't know, please ask me directly."
+                    "markdown": "- It's your task! If you really don't know, please ask me directly"
                 }
             ]
         },
@@ -84,7 +84,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Đề xuất đã được cấp Quản lý phê duyệt"
+                    "markdown": "- Vui lòng đảm bảo chi phí đã được Cấp quản lý phê duyệt trước khi thực hiện"
                 },
                 {
                     "id": "81cf93c4-5ab9-430d-a72d-8344f4d70910",
@@ -149,7 +149,7 @@
                                 {
                                     "id": "a79649bf-b816-4847-aebc-c8c190af06e8",
                                     "tagType": "td",
-                                    "markdown": "Giữ lại phiếu tính tiền"
+                                    "markdown": "Giữ lại phiếu thanh toán"
                                 },
                                 {
                                     "id": "8aaaed45-960a-442d-a6e6-7ab6b3868109",
@@ -197,12 +197,12 @@
                                 {
                                     "id": "c45e9aed-6b70-4beb-887c-dd3570dea7f3",
                                     "tagType": "td",
-                                    "markdown": "Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán"
+                                    "markdown": "Sau khi nhận hóa đơn, vui lòng forward về email Kế toán"
                                 },
                                 {
                                     "id": "f58844af-17c4-4578-a948-bca3ca3dff4d",
                                     "tagType": "td",
-                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
+                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- Tiêu đề: [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 }
                             ]
                         },
@@ -229,7 +229,7 @@
                                 {
                                     "id": "aea1dd4b-68e4-44cd-a436-c0258867a996",
                                     "tagType": "td",
-                                    "markdown": "Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
+                                    "markdown": "Gửi đầy đủ hồ sơ cho Kế toán"
                                 },
                                 {
                                     "id": "41a2b284-94b3-4450-8042-56a303355601",
@@ -248,7 +248,7 @@
                         "font-bold",
                         "text-center"
                     ],
-                    "markdown": "👉 Team BD sắp xếp claim chi phí trong vòng 07 ngày"
+                    "markdown": "👉 Vui lòng hoàn tất hồ sơ claim trong vòng 07 ngày kể từ ngày phát sinh chi phí"
                 }
             ]
         }

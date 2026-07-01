@@ -12,7 +12,7 @@
                     "styles": [
                         "font-bold"
                     ],
-                    "markdown": "Khi nào thì \"mua cho vui\" và khi nào thì cần có \"hợp đồng\" cho chắc tay nhỉ?"
+                    "markdown": "Giao dịch của bạn cần phải ký hợp đồng nếu:"
                 },
                 {
                     "id": "092fcf2b-50a5-45c7-8516-7caea35eaf1e",
@@ -20,7 +20,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Mua từ **10.000.000 VNĐ** trở lên"
+                    "markdown": "- Bắt buộc với giá trị **từ 10.000.000 VNĐ** trở lên"
                 },
                 {
                     "id": "204c4dce-449a-4776-95d0-f6fda5191d95",
@@ -28,7 +28,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Hoặc bất cứ khi nào nếu:"
+                    "markdown": "- Hoặc:"
                 },
                 {
                     "id": "ae0aa95c-d06f-442e-a058-f682c8910af2",
@@ -36,7 +36,7 @@
                     "styles": [
                         "ml-12"
                     ],
-                    "markdown": "- Giá trị cao, dùng lâu dài"
+                    "markdown": "- Mua hàng với số lượng lớn (có thể đếm được)"
                 },
                 {
                     "id": "6b6fa229-ea71-42b3-81bf-49e15e55cd3f",
@@ -44,7 +44,7 @@
                     "styles": [
                         "ml-12"
                     ],
-                    "markdown": "- Cần bảo hành - bảo trì"
+                    "markdown": "- Mua hàng giá trị dùng lâu dài (thiết bị điện tử...)"
                 },
                 {
                     "id": "a7f61164-323a-4e4a-85a4-ce14f31f0c05",
@@ -52,7 +52,7 @@
                     "styles": [
                         "ml-12"
                     ],
-                    "markdown": "- Mua số lượng nhiều"
+                    "markdown": "- Có bảo hành hoặc bảo trì"
                 },
                 {
                     "id": "34678cfb-80af-4c7d-9a28-d22c8da880bd",
@@ -60,7 +60,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Hoặc hợp đồng dịch vụ có điều khoản thanh toán trước nhằm đảm bảo quyền và nghĩa vụ giữa các bên. *(Freelance...)*"
+                    "markdown": "- Dịch vụ thực hiện trong thời gian dài, có quy định quyền và nghĩa vụ giữa các bên (Freelance, Consultant...)"
                 },
                 {
                     "id": "dd99fd74-f3bf-4e3f-901b-44ab43ab3b66",
@@ -69,7 +69,7 @@
                         "font-bold",
                         "italic"
                     ],
-                    "markdown": "👉 Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6."
+                    "markdown": "👉 **Duyệt thanh toán - thứ 5** và **Chi tiền - thứ 6**"
                 },
                 {
                     "id": "840ca486-be55-47b9-affa-f26fe4a2525c",
@@ -78,7 +78,7 @@
                         "font-bold",
                         "italic"
                     ],
-                    "markdown": "👉 Hãy sắp xếp để được thanh toán đúng hạn."
+                    "markdown": "👉 Nếu cần thanh toán, vui lòng sắp xếp gửi hồ sơ đúng hạn (trước thứ 5)"
                 }
             ]
         },
@@ -93,7 +93,7 @@
                         "italic",
                         "mb-2"
                     ],
-                    "markdown": "👉 **PRINT ALL** those documents! Compile all documents into one payment package."
+                    "markdown": "👉 **PRINT ALL** those documents! Compile all documents into one payment package"
                 },
                 {
                     "id": "7ac4ce37-986a-45b5-9012-7a67b7f699dc",
@@ -111,7 +111,7 @@
                         "italic",
                         "mb-6"
                     ],
-                    "markdown": "👉 Các yêu cầu chưa đầy đủ sẽ được hoàn trả để bổ sung thông tin."
+                    "markdown": "👉 Các yêu cầu chưa đầy đủ sẽ được hoàn trả để bổ sung thông tin"
                 },
                 {
                     "id": "0d61e268-d095-4055-89b0-6f89ff08adcd",
@@ -120,7 +120,7 @@
                         {
                             "id": "79774b96-b596-4b40-8ca8-6956401c2ae6",
                             "tagType": "selection",
-                            "title": "B.1 - Bạn mua hàng > 5 triệu đồng?",
+                            "title": "B.1 - Bạn mua hàng >= 5 triệu đồng?",
                             "content": [
                                 {
                                     "id": "e4d8c591-ec09-4be1-8f36-d55345ee304b",
@@ -166,7 +166,7 @@
                                                 {
                                                     "id": "96ce1b31-d86e-4c87-99bd-aaf65dd82e23",
                                                     "tagType": "td",
-                                                    "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
+                                                    "markdown": "Bản giấy tự soạn kèm chữ ký của Cấp Quản lý phê duyệt"
                                                 }
                                             ]
                                         },
@@ -269,7 +269,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
+                                    "markdown": "- Gửi đầy đủ hồ sơ cho Kế toán"
                                 },
                                 {
                                     "id": "c48e4501-2c3b-48ab-925e-5abc4592ca2d",
@@ -342,12 +342,12 @@
                                                 {
                                                     "id": "f4f4bef0-e706-447d-9839-03941c29cc7f",
                                                     "tagType": "td",
-                                                    "markdown": "Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán"
+                                                    "markdown": "Sau khi nhận hóa đơn, vui lòng forward về email Kế toán"
                                                 },
                                                 {
                                                     "id": "d273146a-b4aa-4e06-9186-0f550fe5f16d",
                                                     "tagType": "td",
-                                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
+                                                    "markdown": "- Email: hoadon.gos.2024@gmail.com\n- Tiêu đề: [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                                 }
                                             ]
                                         }
@@ -437,7 +437,7 @@
                                                 {
                                                     "id": "73e733e9-81a5-4976-9ba1-3a529d87fd08",
                                                     "tagType": "td",
-                                                    "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
+                                                    "markdown": "Bản giấy tự soạn kèm chữ ký của Cấp Quản lý phê duyệt"
                                                 }
                                             ]
                                         },
@@ -571,7 +571,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
+                                    "markdown": "- Sau khi nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - Tiêu đề: [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 },
                                 {
                                     "id": "ebeb0cd7-fdb1-47ef-a7b8-77877a648dd6",
@@ -588,7 +588,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
+                                    "markdown": "- Gửi đầy đủ hồ sơ cho Kế toán"
                                 }
                             ]
                         },
@@ -657,7 +657,7 @@
                                                 {
                                                     "id": "658b527a-9f6f-4992-aefd-62d5819057b1",
                                                     "tagType": "td",
-                                                    "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
+                                                    "markdown": "Bản giấy tự soạn kèm chữ ký của Cấp Quản lý phê duyệt"
                                                 }
                                             ]
                                         },
@@ -721,7 +721,7 @@
                                                 {
                                                     "id": "b57e4114-1b9d-45d2-b33f-1f3baa8a4802",
                                                     "tagType": "td",
-                                                    "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4.)"
+                                                    "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4)"
                                                 }
                                             ]
                                         },
@@ -737,7 +737,21 @@
                                                 {
                                                     "id": "5b8d2a7a-fe38-4a73-86ee-7c42ee3abe21",
                                                     "tagType": "td",
-                                                    "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4.). Ưu tiên trao đổi với nhà cung cấp để xuất hóa đơn sớm nhất cho công ty"
+                                                    "markdown": "",
+                                                    "children": [
+                                                        {
+                                                            "id": "d27a5ba3-f79f-4532-b2ca-12d256e1df41",
+                                                            "tagType": "p",
+                                                            "styles": [],
+                                                            "markdown": "Yêu cầu từ nhà cung cấp (Nếu không, vui lòng chuyển sang bước 4)"
+                                                        },
+                                                        {
+                                                            "id": "bcbb24f6-1041-4bc8-9c25-ef93747404b9",
+                                                            "tagType": "p",
+                                                            "styles": [],
+                                                            "markdown": "Ưu tiên trao đổi với nhà cung cấp để xuất hóa đơn sớm nhất cho công ty"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         },
@@ -748,7 +762,7 @@
                                                 {
                                                     "id": "8447c249-4c60-4dc4-ba9b-014f219c126f",
                                                     "tagType": "td",
-                                                    "markdown": "Nếu mua hàng KHÔNG CÓ hóa đơn Giá trị gia tăng (VAT)"
+                                                    "markdown": "Nếu mua hàng **KHÔNG CÓ** hóa đơn Giá trị gia tăng (VAT)"
                                                 },
                                                 {
                                                     "id": "9f5e3fce-fad3-412d-989d-4c6edc632bcc",
@@ -808,7 +822,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
+                                    "markdown": "- Sau khi nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - Tiêu đề: [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 }
                             ]
                         },
@@ -877,7 +891,7 @@
                                                 {
                                                     "id": "27d54558-35f5-4c8d-a2bb-831ac6e85140",
                                                     "tagType": "td",
-                                                    "markdown": "Không cần form cố định - có thể tự soạn kèm chữ ký phê duyệt"
+                                                    "markdown": "Bản giấy tự soạn kèm chữ ký của Cấp Quản lý phê duyệt"
                                                 }
                                             ]
                                         },
@@ -1094,7 +1108,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Sau khi bạn nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
+                                    "markdown": "- Sau khi nhận hóa đơn, vui lòng forward về email Kế toán\n    - Email: hoadon.gos.2024@gmail.com\n    - Tiêu đề: [Tên bạn] - [Chi phí gì] - [Ngày mấy]"
                                 },
                                 {
                                     "id": "a0c8395b-e374-4dd6-8db6-64cf27309f3d",
@@ -1111,7 +1125,7 @@
                                     "styles": [
                                         "mb-2"
                                     ],
-                                    "markdown": "- Gửi hồ sơ cho Kế toán để kiểm tra và thực hiện thanh toán"
+                                    "markdown": "- Gửi đầy đủ hồ sơ cho Kế toán"
                                 }
                             ]
                         }
@@ -1289,7 +1303,7 @@
                                                 "inline-block"
                                             ],
                                             "markdown": "DOWNLOAD",
-                                            "href": "https://drive.google.com/open?id=1RVC3MG3hja2hPr1qiW8v9zmPfQ99tn93&usp=drive_copy"
+                                            "href": "https://drive.google.com/open?id=1sRhD3uKj_HUWqZxpUbo6V2OkDOUyCQ1P&usp=drive_copy"
                                         }
                                     ]
                                 }
@@ -1320,7 +1334,7 @@
                                                 "inline-block"
                                             ],
                                             "markdown": "DOWNLOAD",
-                                            "href": "https://drive.google.com/open?id=1ZTcII9wZk2TS-Plp-TDdmu48t0bcgSk0&usp=drive_copy"
+                                            "href": "https://drive.google.com/open?id=1hGmz9QdANqvB8smhgWLI6kdVQUGErKNP&usp=drive_copy"
                                         }
                                     ]
                                 }
@@ -1351,7 +1365,7 @@
                                                 "inline-block"
                                             ],
                                             "markdown": "DOWNLOAD",
-                                            "href": "https://drive.google.com/open?id=1PKSodeUc1cZAef_PPIQ4SA9T1h1bYFQI&usp=drive_copy"
+                                            "href": "https://drive.google.com/open?id=1vRJQ-NhXPIH4VVydbWA5FAul95mjtuJF&usp=drive_copy"
                                         }
                                     ]
                                 }

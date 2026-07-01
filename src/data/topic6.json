@@ -12,7 +12,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Đọc hướng dẫn này"
+                    "markdown": "- Đọc kĩ hướng dẫn này"
                 },
                 {
                     "id": "fd55a1fb-59de-4bd2-8601-6bf9a9268130",
@@ -28,7 +28,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Được sự chấp thuận của cấp Quản lý"
+                    "markdown": "- Đảm bảo hồ sơ đã được Leader/Manager phê duyệt"
                 },
                 {
                     "id": "4ec4ba78-068e-4b9e-9e47-4d1de621d21d",
@@ -36,7 +36,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Gửi yêu cầu đầy đủ"
+                    "markdown": "- Gửi đầy đủ chứng từ theo yêu cầu"
                 },
                 {
                     "id": "7bb61f92-0d58-4cd7-b7bd-4c264cb72869",
@@ -44,12 +44,34 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Kế toán chỉ xử lý các yêu cầu hoàn chỉnh"
+                    "markdown": "- Kế toán sẽ tiếp nhận và xử lý các hồ sơ đầy đủ"
                 }
             ]
         },
         {
-            "id": "0cfaff7c-423b-402f-9a14-84bda12107f8",
+            "id": "6ad8b192-df91-4764-be57-d68841a882b1",
+            "question": "Lịch thanh toán của công ty?",
+            "content": [
+                {
+                    "id": "ff8595bc-ceba-4ad3-b78e-8d79e994f4d6",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Duyệt thanh toán: Thứ 5"
+                },
+                {
+                    "id": "fa155b99-f5ca-4033-b991-2b3765f725d2",
+                    "tagType": "p",
+                    "styles": [
+                        "ml-6"
+                    ],
+                    "markdown": "- Chi tiền: Thứ 6"
+                }
+            ]
+        },
+        {
+            "id": "86a35270-e001-480f-8ad4-6313c985993e",
             "question": "Bạn cần biết thế nào là hóa đơn GTGT (VAT) hợp lệ để được chấp nhận thanh toán?",
             "content": [
                 {
@@ -66,7 +88,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Đúng nội dung và giá tiền hàng hóa/dịch vụ thực tế"
+                    "markdown": "- Đúng **nội dung** và **giá tiền hàng hóa/dịch vụ thực tế**"
                 },
                 {
                     "id": "72448c47-4239-40b2-8a3d-4288551021c1",
@@ -74,7 +96,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Gửi Kế toán ngay sau khi thanh toán"
+                    "markdown": "- Gửi Kế toán ngay sau khi nhận"
                 },
                 {
                     "id": "6b3c1d52-a5f9-4976-8731-3441d5d7d4f4",
@@ -132,7 +154,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Nhận được chấp thuận qua email/tin nhắn"
+                    "markdown": "- Xác nhận phê duyệt qua email/tin nhắn"
                 },
                 {
                     "id": "1b8c0a33-6849-436b-b0b7-f5a0039b14c4",
@@ -148,7 +170,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Bổ sung chữ ký gốc sau"
+                    "markdown": "- Bổ sung chữ ký gốc khi Leader/Manager quay lại"
                 }
             ]
         },
@@ -162,7 +184,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Tuân theo lịch của công ty: phê duyệt vào thứ 5, thanh toán vào thứ 6"
+                    "markdown": "- Tuân theo lịch của công ty: **Duyệt thanh toán - thứ 5** và **Chi tiền - thứ 6**"
                 },
                 {
                     "id": "71973819-8efe-4b50-a6b8-09e485226ac3",
@@ -179,7 +201,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Trường hợp khẩn cấp: cần BOD phê duyệt trực tiếp và đính kèm bằng chứng (email/tin nhắn)"
+                    "markdown": "- **Trường hợp khẩn cấp:** cần BOD phê duyệt trực tiếp và đính kèm bằng chứng (email/tin nhắn)"
                 },
                 {
                     "id": "92b531d5-a351-4a31-a562-0573938b9fd9",
@@ -221,7 +243,7 @@
         },
         {
             "id": "af4e3a90-02e3-4803-a03c-c77b981c9109",
-            "question": "Bạn cần support về Team building?",
+            "question": "Bạn cần support về Team building hoặc hoạt động nội bộ?",
             "content": [
                 {
                     "id": "1853c3f3-3325-4e92-afc8-5cb7d8c12218",
@@ -282,6 +304,18 @@
                         "ml-6"
                     ],
                     "markdown": "- **Tip:** Có thể kết nối với máy in bằng điện thoại qua Bluetooth"
+                }
+            ]
+        },
+        {
+            "id": "7f0d23a6-71cd-4e21-bb27-7e85ab6cbe21",
+            "question": "Need more help?",
+            "content": [
+                {
+                    "id": "5334437e-86b9-4055-aa71-47e640d50202",
+                    "tagType": "p",
+                    "styles": [],
+                    "markdown": "Nếu chưa tìm thấy câu trả lời trong hướng dẫn này, vui lòng liên hệ Kế toán để được hỗ trợ"
                 }
             ]
         }

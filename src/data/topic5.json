@@ -50,7 +50,7 @@
                                 {
                                     "id": "902b7979-a936-47ae-9ef8-e3b2c69e8c39",
                                     "tagType": "td",
-                                    "markdown": "Không cần form cố định - có thể tự soạn hoặc tin nhắn/email kèm phê duyệt"
+                                    "markdown": "Bản giấy tự soạn kèm chữ ký của Cấp Quản lý phê duyệt"
                                 }
                             ]
                         }
@@ -193,7 +193,7 @@
                                 {
                                     "id": "6a1f06ae-eaec-4eb8-a3ad-4f293c7a4de3",
                                     "tagType": "td",
-                                    "markdown": "Thiết lập lịch gửi invoice định kỳ hàng tháng hoặc setup email nhận mặc định"
+                                    "markdown": "Thiết lập email tự động hoặc lịch gửi invoice định kỳ hàng tháng cho Kế toán"
                                 },
                                 {
                                     "id": "4cbc048b-abb0-4746-93e3-3a0e21a4eeb0",
@@ -209,7 +209,7 @@
                                 {
                                     "id": "87c5cb05-d71a-4ebb-8939-52c302c81372",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng gửi **NGAY** vì Kế toán cần **kê khai thuế**"
+                                    "markdown": "Vui lòng gửi **NGAY** để phục vụ **kê khai thuế**"
                                 },
                                 {
                                     "id": "27451f3c-0114-4a3b-b223-2960192ddebb",

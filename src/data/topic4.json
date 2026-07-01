@@ -12,7 +12,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Phân tách budget theo từng dự án riêng biệt."
+                    "markdown": "- Phân tách budget theo từng dự án riêng biệt"
                 },
                 {
                     "id": "789093f1-4184-4b0a-8566-13dc0695606d",
@@ -20,7 +20,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Tổng hợp ngân sách theo **từng loại thẻ** dùng để nạp ads / thanh toán tool."
+                    "markdown": "- Tổng hợp ngân sách theo **từng loại thẻ** dùng để nạp ads / thanh toán tool"
                 },
                 {
                     "id": "1e6aee3b-5924-45d2-b0f1-b88bc1486b5d",
@@ -28,7 +28,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Gửi budget cho Kế toán và ping trên channel khi cần nạp tiền."
+                    "markdown": "- Gửi budget cho Kế toán và ping trên channel khi cần nạp tiền"
                 },
                 {
                     "id": "0a7ed7e0-4a03-4311-882e-693421c442e6",
@@ -37,7 +37,7 @@
                         "ml-6",
                         "mb-4"
                     ],
-                    "markdown": "- Thời gian xử lý của Kế toán khoảng **02 ngày làm việc**, team vui lòng chủ động gửi budget sớm để tránh ảnh hưởng tiến độ."
+                    "markdown": "- Vui lòng gửi yêu cầu trước ít nhất **02 ngày** làm việc để Kế toán có đủ thời gian xử lý"
                 }
             ]
         },
@@ -84,7 +84,7 @@
                                 {
                                     "id": "c5fdef17-c442-4551-9a72-e8c7463148b1",
                                     "tagType": "td",
-                                    "markdown": "Gửi yêu cầu cho Kế toán trên channel"
+                                    "markdown": "Gửi yêu cầu trên channel và tag Kế toán"
                                 },
                                 {
                                     "id": "3a4b946e-0f01-4aea-a9da-8ac8f9d4dfdf",
@@ -100,7 +100,7 @@
                                 {
                                     "id": "a30cd166-81c1-48d4-80e8-7934a4d1744c",
                                     "tagType": "td",
-                                    "markdown": "Kế toán sẽ thông báo cho team sau khi nạp tiền"
+                                    "markdown": "Kế toán sẽ thông báo sau khi hoàn tất việc nạp tiền"
                                 },
                                 {
                                     "id": "20854582-5586-491a-a2a7-fa9945512073",
@@ -263,7 +263,7 @@
                                 {
                                     "id": "53e6c678-146a-4161-b71c-64b7a7744b70",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng tổng hợp **NGAY** vì Kế toán cần **kê khai thuế**"
+                                    "markdown": "Vui lòng tổng hợp **NGAY** để phục vụ **kê khai thuế**"
                                 },
                                 {
                                     "id": "2bfab385-0591-417e-8740-d460c0a5e997",
@@ -279,7 +279,7 @@
                                 {
                                     "id": "d3e87408-86d7-41a7-abee-7016ef46daed",
                                     "tagType": "td",
-                                    "markdown": "Kế toán sẽ tạo lịch nhắc nhở thứ 2 và thứ 5 hằng tuần trên Slack"
+                                    "markdown": "Kế toán đã tạo lịch nhắc nhở **thứ 2** và **thứ 5** hằng tuần trên Slack"
                                 },
                                 {
                                     "id": "e3698fa0-43a4-4640-b36f-0066881a5a61",
@@ -335,7 +335,7 @@
                                 {
                                     "id": "93a3e9c0-693c-4697-a4e8-e90f794a35c6",
                                     "tagType": "td",
-                                    "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN (mỗi tool là 1 giấy - không gộp chung - ghi chính xác số tiền)"
+                                    "markdown": "Viết giấy ĐỀ NGHỊ THANH TOÁN (mỗi tool là 1 đề nghị - không gộp chung - ghi chính xác số tiền)"
                                 },
                                 {
                                     "id": "13321fbe-551a-4f54-acd7-9ec4b7099148",
@@ -351,12 +351,12 @@
                                 {
                                     "id": "3b558e30-13ed-491c-9d92-2dc95c6e8206",
                                     "tagType": "td",
-                                    "markdown": "Sau khi ping Kế toán trên channel, vui lòng chờ xử lý"
+                                    "markdown": "Gửi yêu cầu trên channel và tag Kế toán"
                                 },
                                 {
                                     "id": "2fa876a5-6464-4b7e-8d2c-23c83c110220",
                                     "tagType": "td",
-                                    "markdown": "Hãy sắp xếp để được thanh toán đúng hạn"
+                                    "markdown": ""
                                 }
                             ]
                         },
@@ -367,12 +367,12 @@
                                 {
                                     "id": "16a379ac-32a1-4b9c-af81-9ac6ed3e1dd6",
                                     "tagType": "td",
-                                    "markdown": "Kế toán sẽ thông báo lại cho bạn"
+                                    "markdown": "Kế toán sẽ thông báo sau khi hoàn tất duyệt đề nghị"
                                 },
                                 {
                                     "id": "3b1ac8d2-b9c5-4065-bd77-88b31dbec60a",
                                     "tagType": "td",
-                                    "markdown": "Lịch duyệt thanh toán là thứ 5, Kế toán chi tiền vào thứ 6"
+                                    "markdown": "Theo lịch thanh toán của công ty"
                                 }
                             ]
                         }
@@ -530,7 +530,7 @@
                                 {
                                     "id": "51572672-8d8b-40ff-85ee-84cc4e4f5892",
                                     "tagType": "td",
-                                    "markdown": "Vui lòng tổng hợp **NGAY** vì Kế toán cần **kê khai thuế**"
+                                    "markdown": "Vui lòng tổng hợp **NGAY** để phục vụ **kê khai thuế**"
                                 },
                                 {
                                     "id": "9c0de269-f72d-4e07-b15e-03a00cf20897",
@@ -546,7 +546,7 @@
                                 {
                                     "id": "37032b54-76a0-4b35-a581-f680b8b29815",
                                     "tagType": "td",
-                                    "markdown": "Kế toán sẽ tạo lịch nhắc nhở thứ 2 và thứ 5 hằng tuần trên Slack"
+                                    "markdown": "Kế toán đã tạo lịch nhắc nhở **thứ 2** và **thứ 5** hằng tuần trên Slack"
                                 },
                                 {
                                     "id": "373229a6-42d6-4eb8-9cb0-88cadd3d64da",
