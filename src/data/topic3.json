@@ -56,7 +56,7 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- Kế toán sẽ gửi email tình hình công nợ cho BD vào thứ 6 hằng tuần. BD có **trách nhiệm theo dõi, làm việc với khách hàng** để thu hồi công nợ và **phản hồi tình trạng xử lý** cho Kế toán"
+                    "markdown": "- Kế toán sẽ gửi báo cáo công nợ vào thứ Sáu hằng tuần. BD vui lòng **chủ động theo dõi**, làm việc với khách hàng để thu hồi công nợ và **cập nhật tình trạng xử lý** cho Kế toán"
                 }
             ]
         },
@@ -70,13 +70,13 @@
                     "styles": [
                         "ml-6"
                     ],
-                    "markdown": "- It's your task! If you really don't know, please ask me directly"
+                    "markdown": "Hmmm..."
                 }
             ]
         },
         {
             "id": "79de5db2-5390-4fd1-b174-9290959ef486",
-            "question": "D. BD cần đi tiếp khách và mua quà tặng khách?",
+            "question": "D. BD cần gặp đối tác và mua quà?",
             "content": [
                 {
                     "id": "225cd099-7860-4980-93e6-aa29bf3fe05c",
