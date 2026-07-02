@@ -182,7 +182,7 @@
                                 {
                                     "id": "97d0b6d1-206a-4d8d-82e8-a653d05760e4",
                                     "tagType": "td",
-                                    "markdown": "Kế toán không chịu trách nhiệm với hóa đơn không hợp lệ"
+                                    "markdown": "Kế toán không thể xử lý các hóa đơn sai thông tin"
                                 },
                                 {
                                     "id": "0713184f-ec57-4a5a-b338-f4d4aeec2fb4",
@@ -449,7 +449,7 @@
                                 {
                                     "id": "e870b844-e17b-48c2-be96-db5a6e83822a",
                                     "tagType": "td",
-                                    "markdown": "Kế toán không chịu trách nhiệm với hóa đơn không hợp lệ"
+                                    "markdown": "Kế toán không thể xử lý các hóa đơn sai thông tin"
                                 },
                                 {
                                     "id": "d4c9a825-54ea-438b-b370-f59e3f25c3cb",
